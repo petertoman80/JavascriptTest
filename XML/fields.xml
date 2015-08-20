@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/"
+      xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+      xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+      xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>489b3cb8-ce79-430c-b474-bf5c34de6504</id>
+    <title/>
+    <updated>2015-08-20T09:01:04Z</updated>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'c042a256-787d-4a6f-8a8a-cf6ab767f12d')
+        </id>
+        <category term="SP.FieldComputed" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'c042a256-787d-4a6f-8a8a-cf6ab767f12d')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'c042a256-787d-4a6f-8a8a-cf6ab767f12d')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'c042a256-787d-4a6f-8a8a-cf6ab767f12d')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">false</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>ContentType</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">true</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>_Hidden</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">c042a256-787d-4a6f-8a8a-cf6ab767f12d</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>ContentType</d:InternalName>
+                <d:JSLink m:null="true"/>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">false</d:Required>
+                <d:SchemaXml>&lt;Field ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType" Group="_Hidden"
+                    Type="Computed" DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                    RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                    PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                    Name="ContentTypeId"
+                    /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">true</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>ContentType</d:StaticName>
+                <d:Title>Content Type</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">12</d:FieldTypeKind>
+                <d:TypeAsString>Computed</d:TypeAsString>
+                <d:TypeDisplayName>Computed</d:TypeDisplayName>
+                <d:TypeShortDescription>Computed</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:EnableLookup m:type="Edm.Boolean">false</d:EnableLookup>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'fa564e0f-0c70-4ab9-b863-0177e6ddd247')
+        </id>
+        <category term="SP.FieldText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'fa564e0f-0c70-4ab9-b863-0177e6ddd247')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'fa564e0f-0c70-4ab9-b863-0177e6ddd247')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'fa564e0f-0c70-4ab9-b863-0177e6ddd247')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">false</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>Title</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">true</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">true</d:FromBaseType>
+                <d:Group>_Hidden</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">fa564e0f-0c70-4ab9-b863-0177e6ddd247</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>Title</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden" Type="Text"
+                    DisplayName="Title" Required="TRUE" FromBaseType="TRUE" Customization="" ShowInNewForm="TRUE"
+                    ShowInEditForm="TRUE" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">true</d:Sortable>
+                <d:StaticName>Title</d:StaticName>
+                <d:Title>Title</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">2</d:FieldTypeKind>
+                <d:TypeAsString>Text</d:TypeAsString>
+                <d:TypeDisplayName>Single line of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Single line of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:MaxLength m:type="Edm.Int32">255</d:MaxLength>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'1531b31a-1379-4f5a-be95-66ce141a84bb')
+        </id>
+        <category term="SP.FieldChoice" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'1531b31a-1379-4f5a-be95-66ce141a84bb')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'1531b31a-1379-4f5a-be95-66ce141a84bb')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'1531b31a-1379-4f5a-be95-66ce141a84bb')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>ParentProcess</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">true</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">1531b31a-1379-4f5a-be95-66ce141a84bb</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>ParentProcess</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{1531b31a-1379-4f5a-be95-66ce141a84bb}" Name="ParentProcess"
+                    DisplayName="Parent Process" Type="Choice" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="ParentProcess" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;1.1
+                    Procurement Strategy&lt;/CHOICE&gt;&lt;CHOICE&gt;1.2 Category Planning&lt;/CHOICE&gt;&lt;CHOICE&gt;1.3
+                    Strategic supplier framework(SSF)&lt;/CHOICE&gt;&lt;CHOICE&gt;1.4 Spending Analytics&lt;/CHOICE&gt;&lt;CHOICE&gt;1.5
+                    Reporting&lt;/CHOICE&gt;&lt;CHOICE&gt;2.1 Source to Contract&lt;/CHOICE&gt;&lt;CHOICE&gt;3.1
+                    Contract Implementation&lt;/CHOICE&gt;&lt;CHOICE&gt;3.2 Purchase to Pay&lt;/CHOICE&gt;&lt;CHOICE&gt;3.3
+                    Contract Administration and Catalogue&lt;/CHOICE&gt;&lt;CHOICE&gt;3.4 Supplier Performance
+                    Management (SPM)&lt;/CHOICE&gt;&lt;CHOICE&gt;3.5 Supplier Relationship Management (SRM)&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">true</d:Sortable>
+                <d:StaticName>ParentProcess</d:StaticName>
+                <d:Title>Parent Process</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">6</d:FieldTypeKind>
+                <d:TypeAsString>Choice</d:TypeAsString>
+                <d:TypeDisplayName>Choice</d:TypeDisplayName>
+                <d:TypeShortDescription>Choice (menu to choose from)</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:FillInChoice m:type="Edm.Boolean">false</d:FillInChoice>
+                <d:Mappings m:null="true"/>
+                <d:Choices m:type="Collection(Edm.String)">
+                    <d:element>1.1 Procurement Strategy</d:element>
+                    <d:element>1.2 Category Planning</d:element>
+                    <d:element>1.3 Strategic supplier framework(SSF)</d:element>
+                    <d:element>1.4 Spending Analytics</d:element>
+                    <d:element>1.5 Reporting</d:element>
+                    <d:element>2.1 Source to Contract</d:element>
+                    <d:element>3.1 Contract Implementation</d:element>
+                    <d:element>3.2 Purchase to Pay</d:element>
+                    <d:element>3.3 Contract Administration and Catalogue</d:element>
+                    <d:element>3.4 Supplier Performance Management (SPM)</d:element>
+                    <d:element>3.5 Supplier Relationship Management (SRM)</d:element>
+                </d:Choices>
+                <d:EditFormat m:type="Edm.Int32">0</d:EditFormat>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'0c3c801a-1144-4158-9338-9221f6116953')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'0c3c801a-1144-4158-9338-9221f6116953')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'0c3c801a-1144-4158-9338-9221f6116953')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'0c3c801a-1144-4158-9338-9221f6116953')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>WhatDoesThisMean</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">0c3c801a-1144-4158-9338-9221f6116953</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>WhatDoesThisMean</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{0c3c801a-1144-4158-9338-9221f6116953}" Name="WhatDoesThisMean"
+                    DisplayName="What Does This Mean" Type="Note" RichText="TRUE" RichTextMode="FullHtml"
+                    Required="TRUE" Group="Procurement Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="WhatDoesThisMean" Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>WhatDoesThisMean</d:StaticName>
+                <d:Title>What Does This Mean</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'88e3852a-1c90-44c4-8c63-02f28ec533b4')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'88e3852a-1c90-44c4-8c63-02f28ec533b4')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'88e3852a-1c90-44c4-8c63-02f28ec533b4')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'88e3852a-1c90-44c4-8c63-02f28ec533b4')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>WhyDoThis</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">88e3852a-1c90-44c4-8c63-02f28ec533b4</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>WhyDoThis</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{88e3852a-1c90-44c4-8c63-02f28ec533b4}" Name="WhyDoThis" DisplayName="Why Do
+                    This" Type="Note" Required="TRUE" RichText="TRUE" RichTextMode="FullHtml" Group="Procurement Site
+                    Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="WhyDoThis" Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>WhyDoThis</d:StaticName>
+                <d:Title>Why Do This</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'a5957188-573d-4294-b70c-1d329ea6edef')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'a5957188-573d-4294-b70c-1d329ea6edef')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'a5957188-573d-4294-b70c-1d329ea6edef')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'a5957188-573d-4294-b70c-1d329ea6edef')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>Thingstodo</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">a5957188-573d-4294-b70c-1d329ea6edef</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>Thingstodo</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{a5957188-573d-4294-b70c-1d329ea6edef}" Name="Thingstodo" DisplayName="Things
+                    to do" Type="Note" Required="TRUE" RichText="TRUE" RichTextMode="FullHtml" Group="Procurement Site
+                    Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="Thingstodo" Customization=""
+                    /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>Thingstodo</d:StaticName>
+                <d:Title>Things to do</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'b48bb1af-2a05-4433-bba0-754a24bb94ce')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'b48bb1af-2a05-4433-bba0-754a24bb94ce')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'b48bb1af-2a05-4433-bba0-754a24bb94ce')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'b48bb1af-2a05-4433-bba0-754a24bb94ce')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>GuidanceNotes</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">b48bb1af-2a05-4433-bba0-754a24bb94ce</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>GuidanceNotes</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{b48bb1af-2a05-4433-bba0-754a24bb94ce}" Name="GuidanceNotes"
+                    DisplayName="Guidance Notes" Type="Note" RichText="TRUE" RichTextMode="FullHtml" Required="TRUE"
+                    Group="Procurement Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="GuidanceNotes" Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>GuidanceNotes</d:StaticName>
+                <d:Title>Guidance Notes</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'a3a4dec4-fad6-46e2-990e-d4c3664ecf18')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'a3a4dec4-fad6-46e2-990e-d4c3664ecf18')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'a3a4dec4-fad6-46e2-990e-d4c3664ecf18')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'a3a4dec4-fad6-46e2-990e-d4c3664ecf18')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>InformationRequirements</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">a3a4dec4-fad6-46e2-990e-d4c3664ecf18</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>InformationRequirements</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{a3a4dec4-fad6-46e2-990e-d4c3664ecf18}" Name="InformationRequirements"
+                    DisplayName="Information Requirements" Type="Note" Required="TRUE" RichText="TRUE"
+                    RichTextMode="FullHtml" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="InformationRequirements"
+                    Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>InformationRequirements</d:StaticName>
+                <d:Title>Information Requirements</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'0802e801-c0b1-42f5-bbbb-31411196e6bf')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'0802e801-c0b1-42f5-bbbb-31411196e6bf')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'0802e801-c0b1-42f5-bbbb-31411196e6bf')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'0802e801-c0b1-42f5-bbbb-31411196e6bf')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>ProcessInteractions</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">0802e801-c0b1-42f5-bbbb-31411196e6bf</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>ProcessInteractions</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{0802e801-c0b1-42f5-bbbb-31411196e6bf}" Name="ProcessInteractions"
+                    DisplayName="Process Interactions" Type="Note" Required="TRUE" RichText="TRUE"
+                    RichTextMode="FullHtml" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="ProcessInteractions" Customization=""
+                    /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>ProcessInteractions</d:StaticName>
+                <d:Title>Process Interactions</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'33e0bfcb-7eb3-4bc4-addd-017dec1dfb71')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'33e0bfcb-7eb3-4bc4-addd-017dec1dfb71')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'33e0bfcb-7eb3-4bc4-addd-017dec1dfb71')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'33e0bfcb-7eb3-4bc4-addd-017dec1dfb71')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>WhyShouldIIncludeThis</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">33e0bfcb-7eb3-4bc4-addd-017dec1dfb71</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>WhyShouldIIncludeThis</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{33e0bfcb-7eb3-4bc4-addd-017dec1dfb71}" Name="WhyShouldIIncludeThis"
+                    DisplayName="Why Should I Include This" Type="Note" Required="TRUE" RichText="TRUE"
+                    RichTextMode="FullHtml" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="WhyShouldIIncludeThis"
+                    Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>WhyShouldIIncludeThis</d:StaticName>
+                <d:Title>Why Should I Include This</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'ed8fbd54-c839-427a-bef4-4463971844fc')
+        </id>
+        <category term="SP.FieldChoice" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'ed8fbd54-c839-427a-bef4-4463971844fc')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'ed8fbd54-c839-427a-bef4-4463971844fc')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'ed8fbd54-c839-427a-bef4-4463971844fc')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>MinorNumber</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">true</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">ed8fbd54-c839-427a-bef4-4463971844fc</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>MinorNumber</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">true</d:Required>
+                <d:SchemaXml>&lt;Field ID="{ed8fbd54-c839-427a-bef4-4463971844fc}" Name="MinorNumber" DisplayName="Minor
+                    Number" Type="Choice" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="MinorNumber" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;1&lt;/CHOICE&gt;&lt;CHOICE&gt;2&lt;/CHOICE&gt;&lt;CHOICE&gt;3&lt;/CHOICE&gt;&lt;CHOICE&gt;4&lt;/CHOICE&gt;&lt;CHOICE&gt;5&lt;/CHOICE&gt;&lt;CHOICE&gt;6&lt;/CHOICE&gt;&lt;CHOICE&gt;7&lt;/CHOICE&gt;&lt;CHOICE&gt;8&lt;/CHOICE&gt;&lt;CHOICE&gt;9&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">true</d:Sortable>
+                <d:StaticName>MinorNumber</d:StaticName>
+                <d:Title>Minor Number</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">6</d:FieldTypeKind>
+                <d:TypeAsString>Choice</d:TypeAsString>
+                <d:TypeDisplayName>Choice</d:TypeDisplayName>
+                <d:TypeShortDescription>Choice (menu to choose from)</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:FillInChoice m:type="Edm.Boolean">false</d:FillInChoice>
+                <d:Mappings m:null="true"/>
+                <d:Choices m:type="Collection(Edm.String)">
+                    <d:element>1</d:element>
+                    <d:element>2</d:element>
+                    <d:element>3</d:element>
+                    <d:element>4</d:element>
+                    <d:element>5</d:element>
+                    <d:element>6</d:element>
+                    <d:element>7</d:element>
+                    <d:element>8</d:element>
+                    <d:element>9</d:element>
+                </d:Choices>
+                <d:EditFormat m:type="Edm.Int32">0</d:EditFormat>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'69814204-2064-4b18-bd54-db292f8948f0')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'69814204-2064-4b18-bd54-db292f8948f0')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'69814204-2064-4b18-bd54-db292f8948f0')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'69814204-2064-4b18-bd54-db292f8948f0')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>MandatoryTemplates</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">69814204-2064-4b18-bd54-db292f8948f0</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>MandatoryTemplates</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">false</d:Required>
+                <d:SchemaXml>&lt;Field ID="{69814204-2064-4b18-bd54-db292f8948f0}" Name="MandatoryTemplates"
+                    DisplayName="Mandatory Templates" Type="Note" RichText="TRUE" RichTextMode="FullHtml"
+                    Required="FALSE" Group="Procurement Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="MandatoryTemplates" Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>MandatoryTemplates</d:StaticName>
+                <d:Title>Mandatory Templates</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/AvailableFields(guid'62de6bb8-b970-4606-8f5e-c3bff0ede31a')
+        </id>
+        <category term="SP.FieldMultiLineText" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/AvailableFields(guid'62de6bb8-b970-4606-8f5e-c3bff0ede31a')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/AvailableFields(guid'62de6bb8-b970-4606-8f5e-c3bff0ede31a')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/TitleResource"
+              type="application/atom+xml;type=entry" title="TitleResource"
+              href="Web/AvailableFields(guid'62de6bb8-b970-4606-8f5e-c3bff0ede31a')/TitleResource"/>
+        <title/>
+        <updated>2015-08-20T09:01:04Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:AutoIndexed m:type="Edm.Boolean">false</d:AutoIndexed>
+                <d:CanBeDeleted m:type="Edm.Boolean">true</d:CanBeDeleted>
+                <d:DefaultValue m:null="true"/>
+                <d:Description></d:Description>
+                <d:Direction>none</d:Direction>
+                <d:EnforceUniqueValues m:type="Edm.Boolean">false</d:EnforceUniqueValues>
+                <d:EntityPropertyName>UsefulTools</d:EntityPropertyName>
+                <d:Filterable m:type="Edm.Boolean">false</d:Filterable>
+                <d:FromBaseType m:type="Edm.Boolean">false</d:FromBaseType>
+                <d:Group>Procurement Site Columns</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="Edm.Guid">62de6bb8-b970-4606-8f5e-c3bff0ede31a</d:Id>
+                <d:Indexed m:type="Edm.Boolean">false</d:Indexed>
+                <d:InternalName>UsefulTools</d:InternalName>
+                <d:JSLink>clienttemplates.js</d:JSLink>
+                <d:ReadOnlyField m:type="Edm.Boolean">false</d:ReadOnlyField>
+                <d:Required m:type="Edm.Boolean">false</d:Required>
+                <d:SchemaXml>&lt;Field ID="{62de6bb8-b970-4606-8f5e-c3bff0ede31a}" Name="UsefulTools"
+                    DisplayName="Useful Tools" Type="Note" RichText="TRUE" RichTextMode="FullHtml" Required="FALSE"
+                    Group="Procurement Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="UsefulTools" Customization="" /&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:Sortable m:type="Edm.Boolean">false</d:Sortable>
+                <d:StaticName>UsefulTools</d:StaticName>
+                <d:Title>Useful Tools</d:Title>
+                <d:FieldTypeKind m:type="Edm.Int32">3</d:FieldTypeKind>
+                <d:TypeAsString>Note</d:TypeAsString>
+                <d:TypeDisplayName>Multiple lines of text</d:TypeDisplayName>
+                <d:TypeShortDescription>Multiple lines of text</d:TypeShortDescription>
+                <d:ValidationFormula m:null="true"/>
+                <d:ValidationMessage m:null="true"/>
+                <d:AllowHyperlink m:type="Edm.Boolean">false</d:AllowHyperlink>
+                <d:AppendOnly m:type="Edm.Boolean">false</d:AppendOnly>
+                <d:NumberOfLines m:type="Edm.Int32">6</d:NumberOfLines>
+                <d:RestrictedMode m:type="Edm.Boolean">true</d:RestrictedMode>
+                <d:RichText m:type="Edm.Boolean">true</d:RichText>
+                <d:WikiLinking m:type="Edm.Boolean">false</d:WikiLinking>
+            </m:properties>
+        </content>
+    </entry>
+</feed>

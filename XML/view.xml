@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/"
+       xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+       xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+       xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>
+        https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/Views(guid'dbc5c83c-b2aa-4349-8c2c-8f30201fa440')
+    </id>
+    <category term="SP.View" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/Views(guid'dbc5c83c-b2aa-4349-8c2c-8f30201fa440')"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ViewFields"
+          type="application/atom+xml;type=entry" title="ViewFields"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/Views(guid'dbc5c83c-b2aa-4349-8c2c-8f30201fa440')/ViewFields"/>
+    <title/>
+    <updated>2015-08-20T15:38:54Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+        <m:properties>
+            <d:Aggregations m:null="true"/>
+            <d:AggregationsStatus m:null="true"/>
+            <d:BaseViewId>1</d:BaseViewId>
+            <d:ContentTypeId m:type="SP.ContentTypeId">
+                <d:StringValue>0x</d:StringValue>
+            </d:ContentTypeId>
+            <d:DefaultView m:type="Edm.Boolean">true</d:DefaultView>
+            <d:DefaultViewForContentType m:type="Edm.Boolean">false</d:DefaultViewForContentType>
+            <d:EditorModified m:type="Edm.Boolean">false</d:EditorModified>
+            <d:Formats m:null="true"/>
+            <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+            <d:HtmlSchemaXml>&lt;View Name="{DBC5C83C-B2AA-4349-8C2C-8F30201FA440}" DefaultView="TRUE" MobileView="TRUE"
+                MobileDefaultView="TRUE" Type="HTML" DisplayName="All Items"
+                Url="/sites/MnSHubStaging/Procurement/Lists/LeftNavigationLinks/AllItems.aspx" Level="1" BaseViewID="1"
+                ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=23"&gt;&lt;Toolbar Type="Standard" /&gt;&lt;XslLink
+                Default="TRUE"&gt;main.xsl&lt;/XslLink&gt;&lt;JSLink&gt;clienttemplates.js&lt;/JSLink&gt;&lt;RowLimit
+                Paged="TRUE"&gt;30&lt;/RowLimit&gt;&lt;ViewFields&gt;&lt;FieldRef Name="LinkTitle" /&gt;&lt;FieldRef
+                Name="HeaderName" /&gt;&lt;FieldRef Name="NavigationUrl" /&gt;&lt;FieldRef Name="Order1" /&gt;&lt;/ViewFields&gt;&lt;Query&gt;&lt;OrderBy&gt;&lt;FieldRef
+                Name="ID" /&gt;&lt;/OrderBy&gt;&lt;/Query&gt;&lt;ParameterBindings&gt;&lt;ParameterBinding
+                Name="NoAnnouncements" Location="Resource(wss,noXinviewofY_LIST)" /&gt;&lt;ParameterBinding
+                Name="NoAnnouncementsHowTo" Location="Resource(wss,noXinviewofY_DEFAULT)" /&gt;&lt;/ParameterBindings&gt;&lt;/View&gt;</d:HtmlSchemaXml>
+            <d:Id m:type="Edm.Guid">dbc5c83c-b2aa-4349-8c2c-8f30201fa440</d:Id>
+            <d:ImageUrl>/_layouts/15/images/generic.png?rev=23</d:ImageUrl>
+            <d:IncludeRootFolder m:type="Edm.Boolean">false</d:IncludeRootFolder>
+            <d:ViewJoins m:null="true"/>
+            <d:JSLink>clienttemplates.js</d:JSLink>
+            <d:ListViewXml>&lt;View Name="{DBC5C83C-B2AA-4349-8C2C-8F30201FA440}" DefaultView="TRUE" MobileView="TRUE"
+                MobileDefaultView="TRUE" Type="HTML" DisplayName="All Items"
+                Url="/sites/MnSHubStaging/Procurement/Lists/LeftNavigationLinks/AllItems.aspx" Level="1" BaseViewID="1"
+                ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=23" &gt;&lt;Query&gt;&lt;OrderBy&gt;&lt;FieldRef
+                Name="ID" /&gt;&lt;/OrderBy&gt;&lt;/Query&gt;&lt;ViewFields&gt;&lt;FieldRef Name="LinkTitle" /&gt;&lt;FieldRef
+                Name="HeaderName" /&gt;&lt;FieldRef Name="NavigationUrl" /&gt;&lt;FieldRef Name="Order1" /&gt;&lt;/ViewFields&gt;&lt;RowLimit
+                Paged="TRUE"&gt;30&lt;/RowLimit&gt;&lt;JSLink&gt;clienttemplates.js&lt;/JSLink&gt;&lt;XslLink
+                Default="TRUE"&gt;main.xsl&lt;/XslLink&gt;&lt;Toolbar Type="Standard"/&gt;&lt;/View&gt;</d:ListViewXml>
+            <d:Method m:null="true"/>
+            <d:MobileDefaultView m:type="Edm.Boolean">true</d:MobileDefaultView>
+            <d:MobileView m:type="Edm.Boolean">true</d:MobileView>
+            <d:ModerationType m:null="true"/>
+            <d:OrderedView m:type="Edm.Boolean">false</d:OrderedView>
+            <d:Paged m:type="Edm.Boolean">true</d:Paged>
+            <d:PersonalView m:type="Edm.Boolean">false</d:PersonalView>
+            <d:ViewProjectedFields m:null="true"/>
+            <d:ViewQuery>&lt;OrderBy&gt;&lt;FieldRef Name="ID" /&gt;&lt;/OrderBy&gt;</d:ViewQuery>
+            <d:ReadOnlyView m:type="Edm.Boolean">false</d:ReadOnlyView>
+            <d:RequiresClientIntegration m:type="Edm.Boolean">false</d:RequiresClientIntegration>
+            <d:RowLimit m:type="Edm.Int32">30</d:RowLimit>
+            <d:Scope m:type="Edm.Int32">0</d:Scope>
+            <d:ServerRelativeUrl>/sites/MnSHubStaging/Procurement/Lists/LeftNavigationLinks/AllItems.aspx
+            </d:ServerRelativeUrl>
+            <d:StyleId m:null="true"/>
+            <d:Threaded m:type="Edm.Boolean">false</d:Threaded>
+            <d:Title>All Items</d:Title>
+            <d:Toolbar></d:Toolbar>
+            <d:ToolbarTemplateName m:null="true"/>
+            <d:ViewType>HTML</d:ViewType>
+            <d:ViewData m:null="true"/>
+        </m:properties>
+    </content>
+</entry>
