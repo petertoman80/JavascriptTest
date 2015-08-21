@@ -75,7 +75,7 @@ class DocumentionService {
                 method: "GET",
                 headers: { "Accept": "application/json; odata=verbose" },
                 success: ((data) => {
-                    var parsedData = data.d.results;
+                    var parsedData = data.d.results ? data.d.results : data.d.Items.results;
                     if (parsedData.length > 0) {
 
                         var result = filterCallback(parsedData);
@@ -128,7 +128,7 @@ class DocumentionService {
 
     public getContentTypes(listId: string, itemsToExclude?: Array<string>) {
 
-        return this.getItems("/_api/web/lists(guid'" + listId + "')/contenttypes'",
+        return this.getItems("/_api/web/lists(guid'" + listId + "')/contenttypes?$expand=Parent'",
             (parsedData) => {
                 if (itemsToExclude && itemsToExclude.length > 0) {
                     return _.filter(parsedData, (u: any) => {
@@ -212,41 +212,13 @@ class DocumentationRenderer {
         var that = this;
 
         var excludedLists = DocumentGeneratorConfig.config.excludedLists;
-           /* [
-            'AppPackagesList',
-            'OData__x005f_catalogs_x002f_appdata',
-            'DraftAppsList',
-            'OData__x005f_catalogs_x002f_design',
-            'ContentTypeSyncLogList',
-            'IWConvertedForms',
-            'Shared_x0020_Documents',
-            'FormServerTemplates',
-            'GettingStartedList',
-            'OData__x005f_catalogs_x002f_lt',
-            'OData__x005f_catalogs_x002f_MaintenanceLogs',
-            'OData__x005f_catalogs_x002f_masterpage',
-            'PublishedFeedList',
-            'ProjectPolicyItemList',
-            'SiteAssets',
-            'SitePages',
-            'OData__x005f_catalogs_x002f_solutions',
-            'Style_x0020_Library',
-            'TaxonomyHiddenListList',
-            'OData__x005f_catalogs_x002f_theme',
-            'UserInfo',
-            'OData__x005f_catalogs_x002f_wp',
-            'OData__x005f_catalogs_x002f_wfpub',
-            'Documents',
-            'PublishingImages',
-            'Pages',
-            'WorkflowTasks'
-        ];*/
+
 
         service.getLists(excludedLists).done((lists: Array<any>) => {
 
             //var htmlBuilder = [];
 
-            //that.htmlBuilder.push("<h2>Lists: </h2>");
+            listContainer.append("<h2>Lists: </h2>");
 
 
             lists.forEach((item: any) => {
@@ -261,6 +233,7 @@ class DocumentationRenderer {
 
             lists.forEach((list: any) => {
 
+                listContainer.append("<h1>"+ list.Title +" List </h1>");
                 var listName = list.Title.split(' ').join('');
 
                 //Content types
@@ -268,7 +241,7 @@ class DocumentationRenderer {
                 tableContentTypeBuilder.push("<div id=\""+listName+"ContentTypeContainer\"><h3>" + list.Title + " Content Types: </h3>");
                 tableContentTypeBuilder.push("<table id=\""+listName+"ContentTypeTable\" class=\"altrowstable\" id=\"alternatecolor\">");
                 tableContentTypeBuilder.push("<tr>");
-                tableContentTypeBuilder.push("<th>Name</th><th>ID</th><th>Group</th>");
+                tableContentTypeBuilder.push("<th>Name</th><th>ID</th><th>Group</th><th>Parent</th>");
                 tableContentTypeBuilder.push("</tr>");
                 tableContentTypeBuilder.push("</table></div>");
                 listContainer.append(tableContentTypeBuilder.join(""));
@@ -279,15 +252,15 @@ class DocumentationRenderer {
                     //var listNameref = listName;
                     contentTypes.forEach((contentType: any) => {
                         console.log(that.htmlBuilder);
-                        contentTypeContainer.append("<tr><td>" + contentType.Name + "</td><td>" + contentType.Id.StringValue + "</td><td>"+ contentType.Group + "</td></tr>");
+                        contentTypeContainer.append("<tr><td>" + contentType.Name + "</td><td>" + contentType.Id.StringValue + "</td><td>"+ contentType.Group + "</td><td>"+ contentType.Parent.Name + "</td></tr>");
                         //
                         if(DocumentGeneratorConfig.config.excludedContentTypesForFields.indexOf(contentType.Name)=== -1) {
                             var contentTypeName = contentType.Name.split(' ').join('');
                             var tableContentTypeFieldsBuilder = [];
-                            tableContentTypeFieldsBuilder.push("<div id=\"" + listName + contentTypeName + "ContentTypeFieldContainer\"><h3>" + list.Title + " " +  contentType.Name + " Fields: </h3>");
+                            tableContentTypeFieldsBuilder.push("<div id=\"" + listName + contentTypeName + "ContentTypeFieldContainer\"><h3>" +  contentType.Name + " Content Type Fields: </h3>");
                             tableContentTypeFieldsBuilder.push("<table id=\"" + listName + contentTypeName + "ContentTypeFieldTable\" class=\"altrowstable\" id=\"alternatecolor\">");
                             tableContentTypeFieldsBuilder.push("<tr>");
-                            tableContentTypeFieldsBuilder.push("<th>Name</th><th>ID</th><th>Group</th><th>Content Name</th><th>Content type ID</th>");
+                            tableContentTypeFieldsBuilder.push("<th>Name</th><th>ID</th><th>Group</th>");
                             tableContentTypeFieldsBuilder.push("</tr>");
                             tableContentTypeFieldsBuilder.push("</table></div>");
                             $('#' + listName + 'ContentTypeContainer').append(tableContentTypeFieldsBuilder.join(""));
@@ -295,7 +268,7 @@ class DocumentationRenderer {
                                 var contentTypeFieldsContainer = jQuery('#' + listName + contentTypeName + 'ContentTypeFieldTable');
                                 contentTypeFields.forEach((contentTypeField:any) => {
                                     console.log(that.htmlBuilder);
-                                    contentTypeFieldsContainer.append("<tr><td>" + contentTypeField.Title + "</td><td>" + contentTypeField.Id + "</td><td>" + contentTypeField.Group + "</td><td>" + contentType.Name + "</td><td>" + contentType.Id.StringValue + "</td></tr>");
+                                    contentTypeFieldsContainer.append("<tr><td>" + contentTypeField.Title + "</td><td>" + contentTypeField.Id + "</td><td>" + contentTypeField.Group + "</td></tr>");
 
                                 });
                             });
@@ -310,27 +283,40 @@ class DocumentationRenderer {
                 viewFieldsBuilder.push("<div id=\""+listName+"ViewFieldContainer\"><h3>" + list.Title + " Default View Fields: </h3>");
                 viewFieldsBuilder.push("<table id=\""+listName+"ViewFieldTable\" class=\"altrowstable\" id=\"alternatecolor\">");
                 viewFieldsBuilder.push("<tr>");
-                viewFieldsBuilder.push("<th>Title</th><th>InternalName</th> <th>TypeDisplayName</th>");
+                viewFieldsBuilder.push("<th>Title</th><th>InternalName</th> <th>TypeDisplayName</th><th>Values</th>");
                 viewFieldsBuilder.push("</tr>");
                 viewFieldsBuilder.push("</table></div>");
 
                 listContainer.append(viewFieldsBuilder.join(""));
-                service.getViewFields(list.Id, list.DefaultView.Id).done((fields: Array<any>) => {
-                    var viewFieldContainer = jQuery('#'+listName+'ViewFieldTable');
-                    fields.forEach((field: any) => {
-                        console.log(that.htmlBuilder);
-                        viewFieldContainer.append("<tr><td>" + field.Title + "</td><td>" + field.InternalName + "</td><td>" + field.TypeDisplayName +"</td></tr>");
 
-                    });
+                $.when( service.getViewFields(list.Id, list.DefaultView.Id),  service.getFields(list.Id) )
+                    .done(( viewFields: Array<any>, allFields:Array<any> ) => {
+                        var viewFieldContainer = jQuery('#'+listName+'ViewFieldTable');
+                        allFields.forEach((field: any) => {
+                            if(viewFields.indexOf(field.InternalName)!==-1) {
+                                //viewFieldContainer.append("<tr><td>" + fieldName + "</td></tr>");
+                                if(field.TypeAsString==='Choice')
+                                {
+                                    var fieldChoices = [];
+                                    fieldChoices.push("<ul>");
+                                    field.Choices.results.forEach((item) =>{ fieldChoices.push("<li>"+ item  +"</li>"); });
+                                    fieldChoices.push("</ul>");
+                                    viewFieldContainer.append("<tr><td>" + field.Title + "</td><td>" + field.InternalName + "</td><td>" + field.TypeDisplayName + "</td><td>"+  fieldChoices.join('')  +"</td></tr>");
+                                }
+                                else {
+                                    viewFieldContainer.append("<tr><td>" + field.Title + "</td><td>" + field.InternalName + "</td><td>" + field.TypeDisplayName + "</td><td></td></tr>");
+                                }
+                            }
+
+                        });
                 });
 
-
-                //All List Columns
+                /*//All List Columns
                 var tableFliedBuilder = [];
                 tableFliedBuilder.push("<div id=\""+listName+"FieldContainer\"><h3>" + list.Title + " Fields: </h3>");
                 tableFliedBuilder.push("<table id=\""+listName+"FieldTable\" class=\"altrowstable\" id=\"alternatecolor\">");
                 tableFliedBuilder.push("<tr>");
-                tableFliedBuilder.push("<th>Title</th><th>InternalName</th> <th>TypeDisplayName</th>");
+                tableFliedBuilder.push("<th>Title</th><th>InternalName</th> <th>TypeDisplayName</th><th>Values</th>");
                 tableFliedBuilder.push("</tr>");
                 tableFliedBuilder.push("</table></div>");
 
@@ -339,10 +325,18 @@ class DocumentationRenderer {
                     var fieldContainer = jQuery('#'+listName+'FieldTable');
                     fields.forEach((field: any) => {
                         console.log(that.htmlBuilder);
-                        fieldContainer.append("<tr><td>" + field.Title + "</td><td>" + field.InternalName + "</td><td>" + field.TypeDisplayName +"</td></tr>");
+                        if(field.TypeAsString==='Choice')
+                        {
+                            var fieldChoices = [];
+                            field.Choices.results.forEach((item) =>{ fieldChoices.push("<div>"+ item  +"</div>"); })
+                            fieldContainer.append("<tr><td>" + field.Title + "</td><td>" + field.InternalName + "</td><td>" + field.TypeDisplayName + "</td><td>"+  fieldChoices.join('')  +"</td></tr>");
+                        }
+                        else {
+                            fieldContainer.append("<tr><td>" + field.Title + "</td><td>" + field.InternalName + "</td><td>" + field.TypeDisplayName + "</td><td></td></tr>");
+                        }
 
                     });
-                });
+                });*/
 
 
             });
