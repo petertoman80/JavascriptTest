@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<entry xml:base="https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/"
+       xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+       xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+       xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>
+        https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')
+    </id>
+    <category term="SP.ContentType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+          type="application/atom+xml;type=entry" title="DescriptionResource"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/DescriptionResource"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+          type="application/atom+xml;type=feed" title="FieldLinks"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/FieldLinks"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+          type="application/atom+xml;type=feed" title="Fields"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Fields"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+          type="application/atom+xml;type=entry" title="NameResource"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/NameResource"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+          type="application/atom+xml;type=entry" title="Parent"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent">
+        <m:inline>
+            <entry>
+                <id>
+                    https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent
+                </id>
+                <category term="SP.ContentType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                <link rel="edit"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent"/>
+                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                      type="application/atom+xml;type=entry" title="DescriptionResource"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent/DescriptionResource"/>
+                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                      type="application/atom+xml;type=feed" title="FieldLinks"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent/FieldLinks"/>
+                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                      type="application/atom+xml;type=feed" title="Fields"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent/Fields"/>
+                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                      type="application/atom+xml;type=entry" title="NameResource"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent/NameResource"/>
+                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                      type="application/atom+xml;type=entry" title="Parent"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent/Parent"/>
+                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                      type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                      href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/Parent/WorkflowAssociations"/>
+                <title/>
+                <updated>2015-08-21T10:52:26Z</updated>
+                <author>
+                    <name/>
+                </author>
+                <content type="application/xml">
+                    <m:properties>
+                        <d:Description>Create a new list item.</d:Description>
+                        <d:DisplayFormTemplateName>ListForm</d:DisplayFormTemplateName>
+                        <d:DisplayFormUrl></d:DisplayFormUrl>
+                        <d:DocumentTemplate></d:DocumentTemplate>
+                        <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                        <d:EditFormTemplateName>ListForm</d:EditFormTemplateName>
+                        <d:EditFormUrl></d:EditFormUrl>
+                        <d:Group>List Content Types</d:Group>
+                        <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                        <d:Id m:type="SP.ContentTypeId">
+                            <d:StringValue>0x01</d:StringValue>
+                        </d:Id>
+                        <d:JSLink></d:JSLink>
+                        <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                        <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                        <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                        <d:Name>Item</d:Name>
+                        <d:NewFormTemplateName>ListForm</d:NewFormTemplateName>
+                        <d:NewFormUrl></d:NewFormUrl>
+                        <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                        <d:SchemaXml>&lt;ContentType ID="0x01" Name="Item" Group="List Content Types"
+                            Description="Create a new list item." Version="0"
+                            FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder TargetName="_cts/Item" /&gt;&lt;Fields&gt;&lt;Field
+                            ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                            SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType"
+                            Group="_Hidden" Type="Computed" DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                            RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                            PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                            ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                            Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                            ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                            SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden"
+                            Type="Text" DisplayName="Title" Required="TRUE" FromBaseType="TRUE" Customization=""
+                            ShowInNewForm="TRUE" ShowInEditForm="TRUE"&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                            NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                            xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;ListForm&lt;/Display&gt;&lt;Edit&gt;ListForm&lt;/Edit&gt;&lt;New&gt;ListForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                        <d:Scope>/sites/MnSHubStaging</d:Scope>
+                        <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                        <d:StringId>0x01</d:StringId>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+          type="application/atom+xml;type=feed" title="WorkflowAssociations"
+          href="Web/Lists(guid'ccf4b280-efe5-47b1-a5f2-722a3c85158b')/ContentTypes('0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C')/WorkflowAssociations"/>
+    <title/>
+    <updated>2015-08-21T10:52:26Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+        <m:properties>
+            <d:Description></d:Description>
+            <d:DisplayFormTemplateName></d:DisplayFormTemplateName>
+            <d:DisplayFormUrl></d:DisplayFormUrl>
+            <d:DocumentTemplate></d:DocumentTemplate>
+            <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+            <d:EditFormTemplateName></d:EditFormTemplateName>
+            <d:EditFormUrl></d:EditFormUrl>
+            <d:Group>Custom Content Types</d:Group>
+            <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+            <d:Id m:type="SP.ContentTypeId">
+                <d:StringValue>0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C</d:StringValue>
+            </d:Id>
+            <d:JSLink></d:JSLink>
+            <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+            <d:MobileEditFormUrl></d:MobileEditFormUrl>
+            <d:MobileNewFormUrl></d:MobileNewFormUrl>
+            <d:Name>ListFieldsContentType</d:Name>
+            <d:NewFormTemplateName></d:NewFormTemplateName>
+            <d:NewFormUrl></d:NewFormUrl>
+            <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+            <d:SchemaXml>&lt;ContentType ID="0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C"
+                Name="ListFieldsContentType"&gt;&lt;Fields&gt;&lt;Field ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}"
+                Type="Text" Name="Title" DisplayName="Title" Required="TRUE"
+                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" FromBaseType="TRUE"
+                MaxLength="255" ColName="nvarchar1"/&gt;&lt;Field Name="HeaderName"
+                ID="{d5545a5b-2378-414e-af21-02f04b781a66}" DisplayName="HeaderName" Type="Choice" Required="TRUE"
+                ColName="nvarchar3" StaticName="HeaderName" SourceID="{CCF4B280-EFE5-47B1-A5F2-722A3C85158B}"&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;Overview&lt;/CHOICE&gt;&lt;CHOICE&gt;Sourcing&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;Field
+                Name="NavigationUrl" ID="{3b51a9c9-71c4-443b-8363-eafef674c375}" DisplayName="NavigationUrl" Type="URL"
+                Required="TRUE" ColName="nvarchar4" ColName2="nvarchar5" StaticName="NavigationUrl"
+                SourceID="{CCF4B280-EFE5-47B1-A5F2-722A3C85158B}"/&gt;&lt;Field Name="Order1"
+                ID="{9d007d79-b74f-4623-8efc-707d77c8181f}" DisplayName="Order" Type="Number" Required="TRUE"
+                ColName="float1" StaticName="Order1" SourceID="{CCF4B280-EFE5-47B1-A5F2-722A3C85158B}"/&gt;&lt;/Fields&gt;&lt;/ContentType&gt;</d:SchemaXml>
+            <d:Scope>/sites/MnSHubStaging/Procurement/Lists/LeftNavigationLinks</d:Scope>
+            <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+            <d:StringId>0x01001CA3337E8CD44499BFE8721F7F2F8637005A7240688C57F54A8515B3231C2E8A6C</d:StringId>
+        </m:properties>
+    </content>
+</entry>

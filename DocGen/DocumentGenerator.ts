@@ -128,7 +128,7 @@ class DocumentionService {
 
     public getContentTypes(listId: string, itemsToExclude?: Array<string>) {
 
-        return this.getItems("/_api/web/lists(guid'" + listId + "')/contenttypes?$expand=Parent'",
+        return this.getItems("/_api/web/lists(guid'" + listId + "')/contenttypes?$expand=Parent/Parent'",
             (parsedData) => {
                 if (itemsToExclude && itemsToExclude.length > 0) {
                     return _.filter(parsedData, (u: any) => {
@@ -143,6 +143,20 @@ class DocumentionService {
     public getFields(listId: string, itemsToExclude?: Array<string>) {
 
         return this.getItems("/_api/web/lists(guid'" + listId + "')/fields",
+            (parsedData) => {
+                if (itemsToExclude && itemsToExclude.length > 0) {
+                    return _.filter(parsedData, (u: any) => {
+                        return itemsToExclude.indexOf(u.InternalName) === -1;
+                    });
+                } else {
+                    return parsedData;
+                }
+        });
+    }
+
+    public getViews(listId: string, itemsToExclude?: Array<string>) {
+
+        return this.getItems("/_api/web/lists(guid'" + listId + "')/views",
             (parsedData) => {
                 if (itemsToExclude && itemsToExclude.length > 0) {
                     return _.filter(parsedData, (u: any) => {
@@ -252,7 +266,7 @@ class DocumentationRenderer {
                     //var listNameref = listName;
                     contentTypes.forEach((contentType: any) => {
                         console.log(that.htmlBuilder);
-                        contentTypeContainer.append("<tr><td>" + contentType.Name + "</td><td>" + contentType.Id.StringValue + "</td><td>"+ contentType.Group + "</td><td>"+ contentType.Parent.Name + "</td></tr>");
+                        contentTypeContainer.append("<tr><td>" + contentType.Name + "</td><td>" + contentType.Id.StringValue + "</td><td>"+ contentType.Group + "</td><td>"+ contentType.Parent.Parent.Name + "</td></tr>");
                         //
                         if(DocumentGeneratorConfig.config.excludedContentTypesForFields.indexOf(contentType.Name)=== -1) {
                             var contentTypeName = contentType.Name.split(' ').join('');
@@ -275,6 +289,26 @@ class DocumentationRenderer {
                         }
                         //
                     });
+                });
+
+                //Views
+                var viewsBuilder = [];
+                viewsBuilder.push("<div id=\""+listName+"ViewContainer\"><h3>" + list.Title + " Views: </h3>");
+                viewsBuilder.push("<table id=\""+listName+"ViewTable\" class=\"altrowstable\" id=\"alternatecolor\">");
+                viewsBuilder.push("<tr>");
+                viewsBuilder.push("<th>Title</th><th>Id</th> <th>BaseViewId</th>");
+                viewsBuilder.push("</tr>");
+                viewsBuilder.push("</table></div>");
+
+                listContainer.append(viewsBuilder.join(""));
+
+                service.getViews(list.Id).done(( views: Array<any>) => {
+                        var viewsContainer = jQuery('#'+listName+'ViewTable');
+                        views.forEach((view: any) => {
+                            if(view.Hidden === false) {
+                                viewsContainer.append("<tr><td>" + view.Title + "</td><td>" + view.Id + "</td><td>" + view.BaseViewId + "</td></tr>");
+                            }
+                        });
                 });
 
 

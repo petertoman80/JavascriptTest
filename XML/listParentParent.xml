@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/"
+      xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+      xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+      xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>53c92a80-c3ed-4454-9863-e6bac7945921</id>
+    <title/>
+    <updated>2015-08-21T12:40:30Z</updated>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')
+        </id>
+        <category term="SP.ContentType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+              type="application/atom+xml;type=feed" title="FieldLinks"
+              href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/FieldLinks"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+              type="application/atom+xml;type=feed" title="Fields"
+              href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Fields"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+              type="application/atom+xml;type=entry" title="NameResource"
+              href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/NameResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+              type="application/atom+xml;type=entry" title="Parent"
+              href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent">
+            <m:inline>
+                <entry>
+                    <id>
+                        https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent
+                    </id>
+                    <category term="SP.ContentType"
+                              scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                          type="application/atom+xml;type=entry" title="DescriptionResource"
+                          href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/DescriptionResource"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                          type="application/atom+xml;type=feed" title="FieldLinks"
+                          href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/FieldLinks"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                          type="application/atom+xml;type=feed" title="Fields"
+                          href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Fields"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                          type="application/atom+xml;type=entry" title="NameResource"
+                          href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/NameResource"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                          type="application/atom+xml;type=entry" title="Parent"
+                          href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent">
+                        <m:inline>
+                            <entry>
+                                <id>
+                                    https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent
+                                </id>
+                                <category term="SP.ContentType"
+                                          scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                                <link rel="edit"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                                      type="application/atom+xml;type=entry" title="DescriptionResource"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent/DescriptionResource"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                                      type="application/atom+xml;type=feed" title="FieldLinks"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent/FieldLinks"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                                      type="application/atom+xml;type=feed" title="Fields"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent/Fields"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                                      type="application/atom+xml;type=entry" title="NameResource"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent/NameResource"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                                      type="application/atom+xml;type=entry" title="Parent"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent/Parent"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                                      type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                                      href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/Parent/WorkflowAssociations"/>
+                                <title/>
+                                <updated>2015-08-21T12:40:30Z</updated>
+                                <author>
+                                    <name/>
+                                </author>
+                                <content type="application/xml">
+                                    <m:properties>
+                                        <d:Description></d:Description>
+                                        <d:DisplayFormTemplateName></d:DisplayFormTemplateName>
+                                        <d:DisplayFormUrl></d:DisplayFormUrl>
+                                        <d:DocumentTemplate></d:DocumentTemplate>
+                                        <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                                        <d:EditFormTemplateName></d:EditFormTemplateName>
+                                        <d:EditFormUrl></d:EditFormUrl>
+                                        <d:Group>_Hidden</d:Group>
+                                        <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                                        <d:Id m:type="SP.ContentTypeId">
+                                            <d:StringValue>0x</d:StringValue>
+                                        </d:Id>
+                                        <d:JSLink></d:JSLink>
+                                        <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                                        <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                                        <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                                        <d:Name>System</d:Name>
+                                        <d:NewFormTemplateName></d:NewFormTemplateName>
+                                        <d:NewFormUrl></d:NewFormUrl>
+                                        <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                                        <d:SchemaXml>&lt;ContentType ID="0x" Name="System" Group="_Hidden" Sealed="TRUE"
+                                            Version="0" FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder
+                                            TargetName="_cts/System" /&gt;&lt;Fields&gt;&lt;Field
+                                            ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="ContentType" Group="_Hidden" Type="Computed"
+                                            DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                                            RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                                            PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                            ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                                            Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                                        <d:Scope>/sites/MnSHubStaging</d:Scope>
+                                        <d:Sealed m:type="Edm.Boolean">true</d:Sealed>
+                                        <d:StringId>0x</d:StringId>
+                                    </m:properties>
+                                </content>
+                            </entry>
+                        </m:inline>
+                    </link>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                          type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                          href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/Parent/WorkflowAssociations"/>
+                    <title/>
+                    <updated>2015-08-21T12:40:30Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                        <m:properties>
+                            <d:Description>Create a new list item.</d:Description>
+                            <d:DisplayFormTemplateName>ListForm</d:DisplayFormTemplateName>
+                            <d:DisplayFormUrl></d:DisplayFormUrl>
+                            <d:DocumentTemplate></d:DocumentTemplate>
+                            <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                            <d:EditFormTemplateName>ListForm</d:EditFormTemplateName>
+                            <d:EditFormUrl></d:EditFormUrl>
+                            <d:Group>List Content Types</d:Group>
+                            <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                            <d:Id m:type="SP.ContentTypeId">
+                                <d:StringValue>0x01</d:StringValue>
+                            </d:Id>
+                            <d:JSLink></d:JSLink>
+                            <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                            <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                            <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                            <d:Name>Item</d:Name>
+                            <d:NewFormTemplateName>ListForm</d:NewFormTemplateName>
+                            <d:NewFormUrl></d:NewFormUrl>
+                            <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                            <d:SchemaXml>&lt;ContentType ID="0x01" Name="Item" Group="List Content Types"
+                                Description="Create a new list item." Version="0"
+                                FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder TargetName="_cts/Item"
+                                /&gt;&lt;Fields&gt;&lt;Field ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}"
+                                Name="ContentType" SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                StaticName="ContentType" Group="_Hidden" Type="Computed" DisplayName="Content Type"
+                                Sealed="TRUE" Sortable="FALSE" RenderXMLUsingPattern="TRUE"
+                                PITarget="MicrosoftWindowsSharePointServices" PIAttribute="ContentTypeID"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                                Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden"
+                                Type="Text" DisplayName="Title" Required="TRUE" FromBaseType="TRUE" Customization=""
+                                ShowInNewForm="TRUE" ShowInEditForm="TRUE"&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                                NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                                xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;ListForm&lt;/Display&gt;&lt;Edit&gt;ListForm&lt;/Edit&gt;&lt;New&gt;ListForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                            <d:Scope>/sites/MnSHubStaging</d:Scope>
+                            <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                            <d:StringId>0x01</d:StringId>
+                        </m:properties>
+                    </content>
+                </entry>
+            </m:inline>
+        </link>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+              type="application/atom+xml;type=feed" title="WorkflowAssociations"
+              href="Web/ContentTypes('0x010097503F69056C497BA48897F079755D39')/WorkflowAssociations"/>
+        <title/>
+        <updated>2015-08-21T12:40:30Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Description>Content type for proc fit process</d:Description>
+                <d:DisplayFormTemplateName>ListForm</d:DisplayFormTemplateName>
+                <d:DisplayFormUrl></d:DisplayFormUrl>
+                <d:DocumentTemplate></d:DocumentTemplate>
+                <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                <d:EditFormTemplateName>ListForm</d:EditFormTemplateName>
+                <d:EditFormUrl></d:EditFormUrl>
+                <d:Group>Procurement Content Types</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="SP.ContentTypeId">
+                    <d:StringValue>0x010097503F69056C497BA48897F079755D39</d:StringValue>
+                </d:Id>
+                <d:JSLink></d:JSLink>
+                <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                <d:Name>Proc Fit Process</d:Name>
+                <d:NewFormTemplateName>ListForm</d:NewFormTemplateName>
+                <d:NewFormUrl></d:NewFormUrl>
+                <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                <d:SchemaXml>&lt;ContentType ID="0x010097503F69056C497BA48897F079755D39" Name="Proc Fit Process"
+                    Group="Procurement Content Types" Description="Content type for proc fit process" Version="1"&gt;&lt;Folder
+                    TargetName="_cts/Proc Fit Process" /&gt;&lt;Fields&gt;&lt;Field
+                    ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType" Group="_Hidden"
+                    Type="Computed" DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                    RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                    PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                    Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden" Type="Text"
+                    DisplayName="Title" Required="TRUE" FromBaseType="TRUE" Customization="" ShowInNewForm="TRUE"
+                    ShowInEditForm="TRUE" /&gt;&lt;Field ID="{1531b31a-1379-4f5a-be95-66ce141a84bb}"
+                    Name="ParentProcess" DisplayName="Parent Process" Type="Choice" Required="TRUE" Group="Procurement
+                    Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="ParentProcess"
+                    Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;1.1 Procurement Strategy&lt;/CHOICE&gt;&lt;CHOICE&gt;1.2
+                    Category Planning&lt;/CHOICE&gt;&lt;CHOICE&gt;1.3 Strategic supplier framework(SSF)&lt;/CHOICE&gt;&lt;CHOICE&gt;1.4
+                    Spending Analytics&lt;/CHOICE&gt;&lt;CHOICE&gt;1.5 Reporting&lt;/CHOICE&gt;&lt;CHOICE&gt;2.1 Source
+                    to Contract&lt;/CHOICE&gt;&lt;CHOICE&gt;3.1 Contract Implementation&lt;/CHOICE&gt;&lt;CHOICE&gt;3.2
+                    Purchase to Pay&lt;/CHOICE&gt;&lt;CHOICE&gt;3.3 Contract Administration and Catalogue&lt;/CHOICE&gt;&lt;CHOICE&gt;3.4
+                    Supplier Performance Management (SPM)&lt;/CHOICE&gt;&lt;CHOICE&gt;3.5 Supplier Relationship
+                    Management (SRM)&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;Field
+                    ID="{0c3c801a-1144-4158-9338-9221f6116953}" Name="WhatDoesThisMean" DisplayName="What Does This
+                    Mean" Type="Note" RichText="TRUE" RichTextMode="FullHtml" Required="TRUE" Group="Procurement Site
+                    Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="WhatDoesThisMean"
+                    Customization="" /&gt;&lt;Field ID="{88e3852a-1c90-44c4-8c63-02f28ec533b4}" Name="WhyDoThis"
+                    DisplayName="Why Do This" Type="Note" Required="TRUE" RichText="TRUE" RichTextMode="FullHtml"
+                    Group="Procurement Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="WhyDoThis" Customization="" /&gt;&lt;Field ID="{a5957188-573d-4294-b70c-1d329ea6edef}"
+                    Name="Thingstodo" DisplayName="Things to do" Type="Note" Required="TRUE" RichText="TRUE"
+                    RichTextMode="FullHtml" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="Thingstodo" Customization="" /&gt;&lt;Field
+                    ID="{b48bb1af-2a05-4433-bba0-754a24bb94ce}" Name="GuidanceNotes" DisplayName="Guidance Notes"
+                    Type="Note" RichText="TRUE" RichTextMode="FullHtml" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="GuidanceNotes" Customization="" /&gt;&lt;Field
+                    ID="{a3a4dec4-fad6-46e2-990e-d4c3664ecf18}" Name="InformationRequirements" DisplayName="Information
+                    Requirements" Type="Note" Required="TRUE" RichText="TRUE" RichTextMode="FullHtml" Group="Procurement
+                    Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="InformationRequirements"
+                    Customization="" /&gt;&lt;Field ID="{0802e801-c0b1-42f5-bbbb-31411196e6bf}"
+                    Name="ProcessInteractions" DisplayName="Process Interactions" Type="Note" Required="TRUE"
+                    RichText="TRUE" RichTextMode="FullHtml" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="ProcessInteractions" Customization=""
+                    /&gt;&lt;Field ID="{33e0bfcb-7eb3-4bc4-addd-017dec1dfb71}" Name="WhyShouldIIncludeThis"
+                    DisplayName="Why Should I Include This" Type="Note" Required="TRUE" RichText="TRUE"
+                    RichTextMode="FullHtml" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="WhyShouldIIncludeThis"
+                    Customization="" /&gt;&lt;Field ID="{ed8fbd54-c839-427a-bef4-4463971844fc}" Name="MinorNumber"
+                    DisplayName="Minor Number" Type="Choice" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="MinorNumber" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;1&lt;/CHOICE&gt;&lt;CHOICE&gt;2&lt;/CHOICE&gt;&lt;CHOICE&gt;3&lt;/CHOICE&gt;&lt;CHOICE&gt;4&lt;/CHOICE&gt;&lt;CHOICE&gt;5&lt;/CHOICE&gt;&lt;CHOICE&gt;6&lt;/CHOICE&gt;&lt;CHOICE&gt;7&lt;/CHOICE&gt;&lt;CHOICE&gt;8&lt;/CHOICE&gt;&lt;CHOICE&gt;9&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;Field
+                    ID="{69814204-2064-4b18-bd54-db292f8948f0}" Name="MandatoryTemplates" DisplayName="Mandatory
+                    Templates" Type="Note" RichText="TRUE" RichTextMode="FullHtml" Required="FALSE" Group="Procurement
+                    Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="MandatoryTemplates"
+                    Customization="" /&gt;&lt;Field ID="{62de6bb8-b970-4606-8f5e-c3bff0ede31a}" Name="UsefulTools"
+                    DisplayName="Useful Tools" Type="Note" RichText="TRUE" RichTextMode="FullHtml" Required="FALSE"
+                    Group="Procurement Site Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="UsefulTools" Customization="" /&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                    NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                    xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;ListForm&lt;/Display&gt;&lt;Edit&gt;ListForm&lt;/Edit&gt;&lt;New&gt;ListForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:StringId>0x010097503F69056C497BA48897F079755D39</d:StringId>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')
+        </id>
+        <category term="SP.ContentType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+              type="application/atom+xml;type=feed" title="FieldLinks"
+              href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/FieldLinks"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+              type="application/atom+xml;type=feed" title="Fields"
+              href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Fields"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+              type="application/atom+xml;type=entry" title="NameResource"
+              href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/NameResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+              type="application/atom+xml;type=entry" title="Parent"
+              href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent">
+            <m:inline>
+                <entry>
+                    <id>
+                        https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent
+                    </id>
+                    <category term="SP.ContentType"
+                              scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                          type="application/atom+xml;type=entry" title="DescriptionResource"
+                          href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/DescriptionResource"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                          type="application/atom+xml;type=feed" title="FieldLinks"
+                          href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/FieldLinks"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                          type="application/atom+xml;type=feed" title="Fields"
+                          href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Fields"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                          type="application/atom+xml;type=entry" title="NameResource"
+                          href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/NameResource"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                          type="application/atom+xml;type=entry" title="Parent"
+                          href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent">
+                        <m:inline>
+                            <entry>
+                                <id>
+                                    https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent
+                                </id>
+                                <category term="SP.ContentType"
+                                          scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                                <link rel="edit"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                                      type="application/atom+xml;type=entry" title="DescriptionResource"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent/DescriptionResource"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                                      type="application/atom+xml;type=feed" title="FieldLinks"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent/FieldLinks"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                                      type="application/atom+xml;type=feed" title="Fields"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent/Fields"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                                      type="application/atom+xml;type=entry" title="NameResource"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent/NameResource"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                                      type="application/atom+xml;type=entry" title="Parent"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent/Parent"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                                      type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                                      href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/Parent/WorkflowAssociations"/>
+                                <title/>
+                                <updated>2015-08-21T12:40:30Z</updated>
+                                <author>
+                                    <name/>
+                                </author>
+                                <content type="application/xml">
+                                    <m:properties>
+                                        <d:Description>Create a new list item.</d:Description>
+                                        <d:DisplayFormTemplateName>ListForm</d:DisplayFormTemplateName>
+                                        <d:DisplayFormUrl></d:DisplayFormUrl>
+                                        <d:DocumentTemplate></d:DocumentTemplate>
+                                        <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                                        <d:EditFormTemplateName>ListForm</d:EditFormTemplateName>
+                                        <d:EditFormUrl></d:EditFormUrl>
+                                        <d:Group>List Content Types</d:Group>
+                                        <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                                        <d:Id m:type="SP.ContentTypeId">
+                                            <d:StringValue>0x01</d:StringValue>
+                                        </d:Id>
+                                        <d:JSLink></d:JSLink>
+                                        <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                                        <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                                        <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                                        <d:Name>Item</d:Name>
+                                        <d:NewFormTemplateName>ListForm</d:NewFormTemplateName>
+                                        <d:NewFormUrl></d:NewFormUrl>
+                                        <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                                        <d:SchemaXml>&lt;ContentType ID="0x01" Name="Item" Group="List Content Types"
+                                            Description="Create a new list item." Version="0"
+                                            FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder
+                                            TargetName="_cts/Item" /&gt;&lt;Fields&gt;&lt;Field
+                                            ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="ContentType" Group="_Hidden" Type="Computed"
+                                            DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                                            RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                                            PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                            ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                                            Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                            ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title"
+                                            Group="_Hidden" Type="Text" DisplayName="Title" Required="TRUE"
+                                            FromBaseType="TRUE" Customization="" ShowInNewForm="TRUE"
+                                            ShowInEditForm="TRUE"&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                                            NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                                            xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;ListForm&lt;/Display&gt;&lt;Edit&gt;ListForm&lt;/Edit&gt;&lt;New&gt;ListForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                                        <d:Scope>/sites/MnSHubStaging</d:Scope>
+                                        <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                                        <d:StringId>0x01</d:StringId>
+                                    </m:properties>
+                                </content>
+                            </entry>
+                        </m:inline>
+                    </link>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                          type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                          href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/Parent/WorkflowAssociations"/>
+                    <title/>
+                    <updated>2015-08-21T12:40:30Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                        <m:properties>
+                            <d:Description>Create a new document.</d:Description>
+                            <d:DisplayFormTemplateName>DocumentLibraryForm</d:DisplayFormTemplateName>
+                            <d:DisplayFormUrl></d:DisplayFormUrl>
+                            <d:DocumentTemplate></d:DocumentTemplate>
+                            <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                            <d:EditFormTemplateName>DocumentLibraryForm</d:EditFormTemplateName>
+                            <d:EditFormUrl></d:EditFormUrl>
+                            <d:Group>Document Content Types</d:Group>
+                            <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                            <d:Id m:type="SP.ContentTypeId">
+                                <d:StringValue>0x0101</d:StringValue>
+                            </d:Id>
+                            <d:JSLink></d:JSLink>
+                            <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                            <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                            <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                            <d:Name>Document</d:Name>
+                            <d:NewFormTemplateName>DocumentLibraryForm</d:NewFormTemplateName>
+                            <d:NewFormUrl></d:NewFormUrl>
+                            <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                            <d:SchemaXml>&lt;ContentType ID="0x0101" Name="Document" Group="Document Content Types"
+                                Description="Create a new document." Version="0"
+                                FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder
+                                TargetName="_cts/Document" /&gt;&lt;Fields&gt;&lt;Field
+                                ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType"
+                                Group="_Hidden" Type="Computed" DisplayName="Content Type" Sealed="TRUE"
+                                Sortable="FALSE" RenderXMLUsingPattern="TRUE"
+                                PITarget="MicrosoftWindowsSharePointServices" PIAttribute="ContentTypeID"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                                Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="SelectFilename"
+                                Group="_Hidden" ReadOnly="TRUE" Type="Computed" DisplayName="Select" Hidden="TRUE"
+                                CanToggleHidden="TRUE" Filterable="FALSE" AuthoringInfo="(web part connection)"
+                                HeaderImage="blank.gif" Sortable="FALSE" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{1d22ea11-1e32-424e-89ab-9fedbadb6ce1}" Name="ID" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;GetVar
+                                Name="SelectedID" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;&lt;Column Name="ID" /&gt;&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                                align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbsel.gif?rev=40"
+                                alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Selected&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                                NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                                false;" onclick="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                                NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                                false;" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img border="0"
+                                align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbunsel.gif?rev=40"
+                                alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Normal&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="FileLeafRef"
+                                Group="_Hidden" ShowInFileDlg="FALSE" ShowInVersionHistory="FALSE" Type="File"
+                                DisplayName="Name" AuthoringInfo="(for use in forms)" List="Docs" FieldRef="ID"
+                                ShowField="LeafName" JoinColName="DoclibRowId" JoinRowOrdinal="0" JoinType="INNER"
+                                Required="TRUE" Customization="" /&gt;&lt;Field
+                                ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created"
+                                Group="_Hidden" ColName="tp_Created" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime"
+                                DisplayName="Created" StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                                ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden"
+                                Type="Text" DisplayName="Title" Required="FALSE" FromBaseType="TRUE" Customization=""
+                                ShowInNewForm="FALSE" ShowInEditForm="TRUE" /&gt;&lt;Field
+                                ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified"
+                                Group="_Hidden" ColName="tp_Modified" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime"
+                                DisplayName="Modified" StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                                ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified_x0020_By"
+                                Group="_Hidden" ReadOnly="TRUE" Hidden="FALSE" Type="Text" DisplayName="Document
+                                Modified By" Customization="" /&gt;&lt;Field ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}"
+                                Name="Created_x0020_By" SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                StaticName="Created_x0020_By" Group="_Hidden" ReadOnly="TRUE" Hidden="FALSE" Type="Text"
+                                DisplayName="Document Created By" Customization=""&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                                NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                                xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;DocumentLibraryForm&lt;/Display&gt;&lt;Edit&gt;DocumentLibraryForm&lt;/Edit&gt;&lt;New&gt;DocumentLibraryForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                            <d:Scope>/sites/MnSHubStaging</d:Scope>
+                            <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                            <d:StringId>0x0101</d:StringId>
+                        </m:properties>
+                    </content>
+                </entry>
+            </m:inline>
+        </link>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+              type="application/atom+xml;type=feed" title="WorkflowAssociations"
+              href="Web/ContentTypes('0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE')/WorkflowAssociations"/>
+        <title/>
+        <updated>2015-08-21T12:40:30Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Description>Proc Fit Document</d:Description>
+                <d:DisplayFormTemplateName>DocumentLibraryForm</d:DisplayFormTemplateName>
+                <d:DisplayFormUrl></d:DisplayFormUrl>
+                <d:DocumentTemplate></d:DocumentTemplate>
+                <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                <d:EditFormTemplateName>DocumentLibraryForm</d:EditFormTemplateName>
+                <d:EditFormUrl></d:EditFormUrl>
+                <d:Group>Procurement Content Types</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="SP.ContentTypeId">
+                    <d:StringValue>0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE</d:StringValue>
+                </d:Id>
+                <d:JSLink></d:JSLink>
+                <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                <d:Name>Proc Fit Document</d:Name>
+                <d:NewFormTemplateName>DocumentLibraryForm</d:NewFormTemplateName>
+                <d:NewFormUrl></d:NewFormUrl>
+                <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                <d:SchemaXml>&lt;ContentType ID="0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE" Name="Proc Fit Document"
+                    Group="Procurement Content Types" Description="Proc Fit Document" Version="1"&gt;&lt;Folder
+                    TargetName="_cts/Proc Fit Document" /&gt;&lt;Fields&gt;&lt;Field
+                    ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType" Group="_Hidden"
+                    Type="Computed" DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                    RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                    PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                    Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="SelectFilename" Group="_Hidden"
+                    ReadOnly="TRUE" Type="Computed" DisplayName="Select" Hidden="TRUE" CanToggleHidden="TRUE"
+                    Filterable="FALSE" AuthoringInfo="(web part connection)" HeaderImage="blank.gif" Sortable="FALSE"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{1d22ea11-1e32-424e-89ab-9fedbadb6ce1}"
+                    Name="ID" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;GetVar
+                    Name="SelectedID" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;&lt;Column Name="ID" /&gt;&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                    align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbsel.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Selected&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                    NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                    false;" onclick="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                    NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                    false;" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img border="0"
+                    align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbunsel.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Normal&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="FileLeafRef" Group="_Hidden"
+                    ShowInFileDlg="FALSE" ShowInVersionHistory="FALSE" Type="File" DisplayName="Name"
+                    AuthoringInfo="(for use in forms)" List="Docs" FieldRef="ID" ShowField="LeafName"
+                    JoinColName="DoclibRowId" JoinRowOrdinal="0" JoinType="INNER" Required="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created" Group="_Hidden"
+                    ColName="tp_Created" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime" DisplayName="Created"
+                    StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden" Type="Text"
+                    DisplayName="Title" Required="FALSE" FromBaseType="TRUE" Customization="" ShowInNewForm="FALSE"
+                    ShowInEditForm="TRUE" /&gt;&lt;Field ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified" Group="_Hidden"
+                    ColName="tp_Modified" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime" DisplayName="Modified"
+                    StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified_x0020_By" Group="_Hidden"
+                    ReadOnly="TRUE" Hidden="FALSE" Type="Text" DisplayName="Document Modified By" Customization="" /&gt;&lt;Field
+                    ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created_x0020_By" Group="_Hidden"
+                    ReadOnly="TRUE" Hidden="FALSE" Type="Text" DisplayName="Document Created By" Customization="" /&gt;&lt;Field
+                    ID="{34b4beb6-09bf-402e-b34a-6d8749610479}" Name="DocumentCategory" DisplayName="Document Type"
+                    Type="Choice" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="DocumentCategory" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;Policy&lt;/CHOICE&gt;&lt;CHOICE&gt;Template&lt;/CHOICE&gt;&lt;CHOICE&gt;How
+                    to guide&lt;/CHOICE&gt;&lt;CHOICE&gt;Other&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;Field
+                    ID="{db6bca76-894b-4eef-9296-b55c26484b9b}" Name="DocumentDescription" DisplayName="Document
+                    Description" Type="Note" NumLines="6" RichText="FALSE" Required="TRUE" Group="Procurement Site
+                    Columns" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="DocumentDescription"
+                    Customization="" /&gt;&lt;Field ID="{2412739e-ce15-42bf-89ba-d270795c1a42}" Name="AtoZ"
+                    DisplayName="A to Z" Type="Choice" Required="FALSE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="AtoZ" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;A-B&lt;/CHOICE&gt;&lt;CHOICE&gt;C-D&lt;/CHOICE&gt;&lt;CHOICE&gt;E-F&lt;/CHOICE&gt;&lt;CHOICE&gt;G-H&lt;/CHOICE&gt;&lt;CHOICE&gt;I-J&lt;/CHOICE&gt;&lt;CHOICE&gt;K-L&lt;/CHOICE&gt;&lt;CHOICE&gt;M-N&lt;/CHOICE&gt;&lt;CHOICE&gt;O-P&lt;/CHOICE&gt;&lt;CHOICE&gt;Q-R&lt;/CHOICE&gt;&lt;CHOICE&gt;S-T&lt;/CHOICE&gt;&lt;CHOICE&gt;U-V&lt;/CHOICE&gt;&lt;CHOICE&gt;W-Z&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;Field
+                    ID="{9d559629-3653-4268-84cc-79c8d004b31f}" Name="SearchTags" DisplayName="Search Tags"
+                    Type="TaxonomyFieldTypeMulti" Required="FALSE" Mult="TRUE" Group="Procurement Site Columns"
+                    ShowField="Term1033" EnforceUniqueValues="FALSE" SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}"
+                    StaticName="SearchTags" List="{0645d53a-3f4b-4113-aba7-16ad7bd9583b}"
+                    WebId="85b711d1-3f61-481e-bfea-3d7525f19bd6" Version="1" Customization=""&gt;&lt;Customization&gt;&lt;ArrayOfProperty&gt;&lt;Property&gt;&lt;Name&gt;SspId&lt;/Name&gt;&lt;Value
+                    xmlns:q1="http://www.w3.org/2001/XMLSchema" p4:type="q1:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;f293ec6e-e2cf-44ce-b850-8c312a9f0bdc&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;GroupId&lt;/Name&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;TermSetId&lt;/Name&gt;&lt;Value
+                    xmlns:q2="http://www.w3.org/2001/XMLSchema" p4:type="q2:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;54fc8b24-a5f4-4b7f-b43d-b3428843bdfe&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;AnchorId&lt;/Name&gt;&lt;Value
+                    xmlns:q3="http://www.w3.org/2001/XMLSchema" p4:type="q3:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;3ed43f73-3945-44b2-b5cc-91842d24936c&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;UserCreated&lt;/Name&gt;&lt;Value
+                    xmlns:q4="http://www.w3.org/2001/XMLSchema" p4:type="q4:boolean"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;false&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;Open&lt;/Name&gt;&lt;Value
+                    xmlns:q5="http://www.w3.org/2001/XMLSchema" p4:type="q5:boolean"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;false&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;TextField&lt;/Name&gt;&lt;Value
+                    xmlns:q6="http://www.w3.org/2001/XMLSchema" p4:type="q6:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;{921ae351-1b9b-4858-8e71-791dab15b224}&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;IsPathRendered&lt;/Name&gt;&lt;Value
+                    xmlns:q7="http://www.w3.org/2001/XMLSchema" p4:type="q7:boolean"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;false&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;IsKeyword&lt;/Name&gt;&lt;Value
+                    xmlns:q8="http://www.w3.org/2001/XMLSchema" p4:type="q8:boolean"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;false&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;TargetTemplate&lt;/Name&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;CreateValuesInEditForm&lt;/Name&gt;&lt;Value
+                    xmlns:q9="http://www.w3.org/2001/XMLSchema" p4:type="q9:boolean"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;false&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;FilterAssemblyStrongName&lt;/Name&gt;&lt;Value
+                    xmlns:q10="http://www.w3.org/2001/XMLSchema" p4:type="q10:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;Microsoft.SharePoint.Taxonomy,
+                    Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;FilterClassName&lt;/Name&gt;&lt;Value
+                    xmlns:q11="http://www.w3.org/2001/XMLSchema" p4:type="q11:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;Microsoft.SharePoint.Taxonomy.TaxonomyField&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;FilterMethodName&lt;/Name&gt;&lt;Value
+                    xmlns:q12="http://www.w3.org/2001/XMLSchema" p4:type="q12:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;GetFilteringHtml&lt;/Value&gt;&lt;/Property&gt;&lt;Property&gt;&lt;Name&gt;FilterJavascriptProperty&lt;/Name&gt;&lt;Value
+                    xmlns:q13="http://www.w3.org/2001/XMLSchema" p4:type="q13:string"
+                    xmlns:p4="http://www.w3.org/2001/XMLSchema-instance"&gt;FilteringJavascript&lt;/Value&gt;&lt;/Property&gt;&lt;/ArrayOfProperty&gt;&lt;/Customization&gt;&lt;/Field&gt;&lt;Field
+                    ID="{921ae351-1b9b-4858-8e71-791dab15b224}" Name="SearchTagsTaxHTField"
+                    DisplayName="CO_SearchTagsTaxHTField" StaticName="SearchTagsTaxHTField" Type="Note"
+                    Group="Procurement Site Columns" Required="FALSE" Hidden="TRUE" CanToggleHidden="TRUE"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" Customization="" /&gt;&lt;Field
+                    ID="{bfa8c9f2-2593-4e9c-b523-ebb182d93450}" Name="ProcessSteps" DisplayName="Process Steps"
+                    Type="Choice" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="ProcessSteps" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;Procurement
+                    Strategy&lt;/CHOICE&gt;&lt;CHOICE&gt;Category Planning&lt;/CHOICE&gt;&lt;CHOICE&gt;Strategic
+                    Supplier Framework&lt;/CHOICE&gt;&lt;CHOICE&gt;Spend Analytics&lt;/CHOICE&gt;&lt;CHOICE&gt;Reporting&lt;/CHOICE&gt;&lt;CHOICE&gt;Source
+                    to Contract&lt;/CHOICE&gt;&lt;CHOICE&gt;Contract Implementation&lt;/CHOICE&gt;&lt;CHOICE&gt;Purchase
+                    to Pay&lt;/CHOICE&gt;&lt;CHOICE&gt;Contract Admin &amp;amp; Catalogue Mgt&lt;/CHOICE&gt;&lt;CHOICE&gt;Supplier
+                    Performance Management&lt;/CHOICE&gt;&lt;CHOICE&gt;Supplier Relationship Management&lt;/CHOICE&gt;&lt;CHOICE&gt;Other&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                    NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                    xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;DocumentLibraryForm&lt;/Display&gt;&lt;Edit&gt;DocumentLibraryForm&lt;/Edit&gt;&lt;New&gt;DocumentLibraryForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:StringId>0x0101002F2CD2F8B68A40DCB0DBC40D6B5FADAE</d:StringId>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>
+            https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')
+        </id>
+        <category term="SP.ContentType" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link rel="edit" href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+              type="application/atom+xml;type=entry" title="DescriptionResource"
+              href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/DescriptionResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+              type="application/atom+xml;type=feed" title="FieldLinks"
+              href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/FieldLinks"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+              type="application/atom+xml;type=feed" title="Fields"
+              href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Fields"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+              type="application/atom+xml;type=entry" title="NameResource"
+              href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/NameResource"/>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+              type="application/atom+xml;type=entry" title="Parent"
+              href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent">
+            <m:inline>
+                <entry>
+                    <id>
+                        https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent
+                    </id>
+                    <category term="SP.ContentType"
+                              scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                          type="application/atom+xml;type=entry" title="DescriptionResource"
+                          href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/DescriptionResource"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                          type="application/atom+xml;type=feed" title="FieldLinks"
+                          href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/FieldLinks"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                          type="application/atom+xml;type=feed" title="Fields"
+                          href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Fields"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                          type="application/atom+xml;type=entry" title="NameResource"
+                          href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/NameResource"/>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                          type="application/atom+xml;type=entry" title="Parent"
+                          href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent">
+                        <m:inline>
+                            <entry>
+                                <id>
+                                    https://mnscorp.sharepoint.com/sites/MnSHubStaging/Procurement/_api/Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent
+                                </id>
+                                <category term="SP.ContentType"
+                                          scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                                <link rel="edit"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/DescriptionResource"
+                                      type="application/atom+xml;type=entry" title="DescriptionResource"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent/DescriptionResource"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldLinks"
+                                      type="application/atom+xml;type=feed" title="FieldLinks"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent/FieldLinks"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Fields"
+                                      type="application/atom+xml;type=feed" title="Fields"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent/Fields"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/NameResource"
+                                      type="application/atom+xml;type=entry" title="NameResource"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent/NameResource"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Parent"
+                                      type="application/atom+xml;type=entry" title="Parent"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent/Parent"/>
+                                <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                                      type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                                      href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/Parent/WorkflowAssociations"/>
+                                <title/>
+                                <updated>2015-08-21T12:40:30Z</updated>
+                                <author>
+                                    <name/>
+                                </author>
+                                <content type="application/xml">
+                                    <m:properties>
+                                        <d:Description>Create a new document.</d:Description>
+                                        <d:DisplayFormTemplateName>DocumentLibraryForm</d:DisplayFormTemplateName>
+                                        <d:DisplayFormUrl></d:DisplayFormUrl>
+                                        <d:DocumentTemplate></d:DocumentTemplate>
+                                        <d:DocumentTemplateUrl></d:DocumentTemplateUrl>
+                                        <d:EditFormTemplateName>DocumentLibraryForm</d:EditFormTemplateName>
+                                        <d:EditFormUrl></d:EditFormUrl>
+                                        <d:Group>Document Content Types</d:Group>
+                                        <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                                        <d:Id m:type="SP.ContentTypeId">
+                                            <d:StringValue>0x0101</d:StringValue>
+                                        </d:Id>
+                                        <d:JSLink></d:JSLink>
+                                        <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                                        <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                                        <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                                        <d:Name>Document</d:Name>
+                                        <d:NewFormTemplateName>DocumentLibraryForm</d:NewFormTemplateName>
+                                        <d:NewFormUrl></d:NewFormUrl>
+                                        <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                                        <d:SchemaXml>&lt;ContentType ID="0x0101" Name="Document" Group="Document Content
+                                            Types" Description="Create a new document." Version="0"
+                                            FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder
+                                            TargetName="_cts/Document" /&gt;&lt;Fields&gt;&lt;Field
+                                            ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="ContentType" Group="_Hidden" Type="Computed"
+                                            DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                                            RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                                            PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                            ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                                            Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                            ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="SelectFilename" Group="_Hidden" ReadOnly="TRUE" Type="Computed"
+                                            DisplayName="Select" Hidden="TRUE" CanToggleHidden="TRUE" Filterable="FALSE"
+                                            AuthoringInfo="(web part connection)" HeaderImage="blank.gif"
+                                            Sortable="FALSE" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                            ID="{1d22ea11-1e32-424e-89ab-9fedbadb6ce1}" Name="ID" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;GetVar
+                                            Name="SelectedID" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;&lt;Column Name="ID" /&gt;&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                                            align="absmiddle" style="cursor: hand"
+                                            src="/_layouts/15/images/rbsel.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Selected&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                            href="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                                            NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                                            false;" onclick="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar
+                                            Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                                            NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                                            false;" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                                            border="0" align="absmiddle" style="cursor: hand"
+                                            src="/_layouts/15/images/rbunsel.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Normal&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                            ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="FileLeafRef" Group="_Hidden" ShowInFileDlg="FALSE"
+                                            ShowInVersionHistory="FALSE" Type="File" DisplayName="Name"
+                                            AuthoringInfo="(for use in forms)" List="Docs" FieldRef="ID"
+                                            ShowField="LeafName" JoinColName="DoclibRowId" JoinRowOrdinal="0"
+                                            JoinType="INNER" Required="TRUE" Customization="" /&gt;&lt;Field
+                                            ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created"
+                                            Group="_Hidden" ColName="tp_Created" RowOrdinal="0" ReadOnly="TRUE"
+                                            Type="DateTime" DisplayName="Created" StorageTZ="TRUE" Hidden="TRUE"
+                                            Customization="" /&gt;&lt;Field ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}"
+                                            Name="Title" SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="Title" Group="_Hidden" Type="Text" DisplayName="Title"
+                                            Required="FALSE" FromBaseType="TRUE" Customization="" ShowInNewForm="FALSE"
+                                            ShowInEditForm="TRUE" /&gt;&lt;Field
+                                            ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified"
+                                            Group="_Hidden" ColName="tp_Modified" RowOrdinal="0" ReadOnly="TRUE"
+                                            Type="DateTime" DisplayName="Modified" StorageTZ="TRUE" Hidden="TRUE"
+                                            Customization="" /&gt;&lt;Field ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}"
+                                            Name="Modified_x0020_By"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="Modified_x0020_By" Group="_Hidden" ReadOnly="TRUE"
+                                            Hidden="FALSE" Type="Text" DisplayName="Document Modified By"
+                                            Customization="" /&gt;&lt;Field ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}"
+                                            Name="Created_x0020_By"
+                                            SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                            StaticName="Created_x0020_By" Group="_Hidden" ReadOnly="TRUE" Hidden="FALSE"
+                                            Type="Text" DisplayName="Document Created By" Customization=""&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                                            NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                                            xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;DocumentLibraryForm&lt;/Display&gt;&lt;Edit&gt;DocumentLibraryForm&lt;/Edit&gt;&lt;New&gt;DocumentLibraryForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                                        <d:Scope>/sites/MnSHubStaging</d:Scope>
+                                        <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                                        <d:StringId>0x0101</d:StringId>
+                                    </m:properties>
+                                </content>
+                            </entry>
+                        </m:inline>
+                    </link>
+                    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+                          type="application/atom+xml;type=feed" title="WorkflowAssociations"
+                          href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/Parent/WorkflowAssociations"/>
+                    <title/>
+                    <updated>2015-08-21T12:40:30Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                        <m:properties>
+                            <d:Description>Upload an image or a photograph.</d:Description>
+                            <d:DisplayFormTemplateName>DocumentLibraryForm</d:DisplayFormTemplateName>
+                            <d:DisplayFormUrl></d:DisplayFormUrl>
+                            <d:DocumentTemplate>/_layouts/15/upload.aspx</d:DocumentTemplate>
+                            <d:DocumentTemplateUrl>/_layouts/15/upload.aspx</d:DocumentTemplateUrl>
+                            <d:EditFormTemplateName>DocumentLibraryForm</d:EditFormTemplateName>
+                            <d:EditFormUrl></d:EditFormUrl>
+                            <d:Group>Document Content Types</d:Group>
+                            <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                            <d:Id m:type="SP.ContentTypeId">
+                                <d:StringValue>0x010102</d:StringValue>
+                            </d:Id>
+                            <d:JSLink></d:JSLink>
+                            <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                            <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                            <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                            <d:Name>Picture</d:Name>
+                            <d:NewFormTemplateName>DocumentLibraryForm</d:NewFormTemplateName>
+                            <d:NewFormUrl></d:NewFormUrl>
+                            <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                            <d:SchemaXml>&lt;ContentType ID="0x010102" Name="Picture" Group="Document Content Types"
+                                Description="Upload an image or a photograph." Version="0"
+                                FeatureId="{695b6570-a48b-4a8e-8ea5-26ea7fc1d162}"&gt;&lt;Folder
+                                TargetName="_cts/Picture" /&gt;&lt;Fields&gt;&lt;Field
+                                ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType"
+                                Group="_Hidden" Type="Computed" DisplayName="Content Type" Sealed="TRUE"
+                                Sortable="FALSE" RenderXMLUsingPattern="TRUE"
+                                PITarget="MicrosoftWindowsSharePointServices" PIAttribute="ContentTypeID"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                                Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="SelectFilename"
+                                Group="_Hidden" ReadOnly="TRUE" Type="Computed" DisplayName="Select" Hidden="TRUE"
+                                CanToggleHidden="TRUE" Filterable="FALSE" AuthoringInfo="(web part connection)"
+                                HeaderImage="blank.gif" Sortable="FALSE" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{1d22ea11-1e32-424e-89ab-9fedbadb6ce1}" Name="ID" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;GetVar
+                                Name="SelectedID" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;&lt;Column Name="ID" /&gt;&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                                align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbsel.gif?rev=40"
+                                alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Selected&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                                NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                                false;" onclick="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                                NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                                false;" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img border="0"
+                                align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbunsel.gif?rev=40"
+                                alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Normal&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="FileLeafRef"
+                                Group="_Hidden" ShowInFileDlg="FALSE" ShowInVersionHistory="FALSE" Type="File"
+                                DisplayName="Name" AuthoringInfo="(for use in forms)" List="Docs" FieldRef="ID"
+                                ShowField="LeafName" JoinColName="DoclibRowId" JoinRowOrdinal="0" JoinType="INNER"
+                                Required="TRUE" Customization="" /&gt;&lt;Field
+                                ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created"
+                                Group="_Hidden" ColName="tp_Created" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime"
+                                DisplayName="Created" StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                                ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified"
+                                Group="_Hidden" ColName="tp_Modified" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime"
+                                DisplayName="Modified" StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                                ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified_x0020_By"
+                                Group="_Hidden" ReadOnly="TRUE" Hidden="FALSE" Type="Text" DisplayName="Document
+                                Modified By" Customization="" /&gt;&lt;Field ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}"
+                                Name="Created_x0020_By" SourceID="http://schemas.microsoft.com/sharepoint/v3"
+                                StaticName="Created_x0020_By" Group="_Hidden" ReadOnly="TRUE" Hidden="FALSE" Type="Text"
+                                DisplayName="Document Created By" Customization="" /&gt;&lt;Field
+                                ID="{8C0D0AAC-9B76-4951-927A-2490ABE13C0B}" Type="Computed" Name="PreviewOnForm"
+                                Group="_Hidden" ShowInEditForm="FALSE" ShowInNewForm="FALSE" ShowInFileDlg="FALSE"
+                                DisplayName="Preview" Sealed="TRUE" Sortable="FALSE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="PreviewOnForm"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                                ID="{A1CA0063-779F-49f9-999C-A4A2E3645B07}" Name="EncodedAbsWebImgUrl" /&gt;&lt;FieldRef
+                                ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="PreviewExists" /&gt;&lt;FieldRef
+                                ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href=']]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsUrl" /&gt;&lt;HTML&gt;&lt;![CDATA['&gt;&lt;img
+                                id=webImgShrinked alt="]]&gt;&lt;/HTML&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                                Name="Description" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[Picture]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Column
+                                Name="Description" HTMLEncode="TRUE" /&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;HTML&gt;&lt;![CDATA["
+                                galleryimg=false border="0" src=']]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsWebImgUrl"
+                                /&gt;&lt;HTML&gt;&lt;![CDATA['&gt;&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden"
+                                Type="Text" DisplayName="Title" Required="TRUE" FromBaseType="TRUE" Customization=""
+                                ShowInNewForm="FALSE" ShowInFileDlg="FALSE" /&gt;&lt;Field
+                                ID="{C53A03F3-F930-4ef2-B166-E0F2210C13C0}" Type="Computed" Group="Core Document
+                                Columns" Name="FileType" DisplayName="File Type" ShowInNewForm="FALSE"
+                                ShowInFileDlg="FALSE" ShowInEditForm="FALSE" Filterable="TRUE" Sortable="TRUE"
+                                AuthoringInfo="(File extension)"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="FileType"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{39360F11-34CF-4356-9945-25C44E68DADE}" Name="File_x0020_Type" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;Column
+                                Name="File_x0020_Type" HTMLEncode="TRUE" /&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{922551B8-C7E0-46a6-B7E3-3CF02917F68A}" Type="Computed" Group="_Hidden"
+                                Name="ImageSize" DisplayName="Picture Size" ShowInNewForm="FALSE" ShowInFileDlg="FALSE"
+                                ShowInEditForm="FALSE" Filterable="FALSE" Sortable="FALSE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="ImageSize"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                                ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" Name="ImageHeight" /&gt;&lt;FieldRef
+                                ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then /&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then /&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;span
+                                dir=ltr&gt;]]&gt;&lt;/HTML&gt;&lt;Column Name="ImageWidth" /&gt;&lt;HTML&gt;&lt;![CDATA[&#xD;
+                                x&#xD;
+                                ]]&gt;&lt;/HTML&gt;&lt;Column Name="ImageHeight" /&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/span&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" ReadOnly="TRUE" Type="Integer" Group="Core
+                                Document Columns" Name="ImageWidth" DisplayName="Picture Width"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="ImageWidth"
+                                Customization="" /&gt;&lt;Field ID="{1944C034-D61B-42af-AA84-647F2E74CA70}"
+                                ReadOnly="TRUE" Type="Integer" Group="Core Document Columns" Name="ImageHeight"
+                                DisplayName="Picture Height"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="ImageHeight"
+                                Customization="" /&gt;&lt;Field ID="{A5D2F824-BC53-422e-87FD-765939D863A5}"
+                                Type="DateTime" Group="Core Document Columns" ShowInNewForm="FALSE"
+                                ShowInFileDlg="FALSE" Name="ImageCreateDate" DisplayName="Date Picture Taken"
+                                Format="DateTime" Sealed="TRUE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" AllowDeletion="TRUE"
+                                StaticName="ImageCreateDate" Customization="" /&gt;&lt;Field
+                                ID="{9da97a8a-1da5-4a77-98d3-4bc10456e700}" Type="Note" RichText="TRUE" Name="Comments"
+                                Group="_Hidden" DisplayName="Comments" Sortable="FALSE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Comments"
+                                Customization="" ShowInNewForm="FALSE" ShowInFileDlg="FALSE" /&gt;&lt;Field
+                                ID="{B9E6F3AE-5632-4b13-B636-9D1A2BD67120}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="EncodedAbsThumbnailUrl" DisplayName="Thumbnail URL"
+                                DisplayNameSrcField="FileLeafRef" Filterable="FALSE" Sortable="FALSE"
+                                RenderXMLUsingPattern="TRUE" Hidden="TRUE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields"
+                                StaticName="EncodedAbsThumbnailUrl" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                                ID="{7177CFC7-F399-4d4d-905D-37DD51BC90BF}" Name="EncodedAbsUrl" /&gt;&lt;FieldRef
+                                ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                                ID="{39360f11-34cf-4356-9945-25c44e68dade}" Name="File_x0020_Type" /&gt;&lt;FieldRef
+                                ID="{0c5e0085-eb30-494b-9cdd-ece1d3c649a2}" Name="HTML_x0020_File_x0020_Type" /&gt;&lt;FieldRef
+                                ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="ThumbnailExists" /&gt;&lt;FieldRef
+                                ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                                Name="AlternateThumbnailUrl" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                                Name="ThumbnailExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;1&lt;/Expr2&gt;&lt;Then&gt;&lt;HttpHost
+                                /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn URLEncodeAsURL="TRUE"
+                                IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_t/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ThumbnailExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                                Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column
+                                Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                                Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column
+                                Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HttpHost /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn
+                                URLEncodeAsURL="TRUE" IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_t/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Column
+                                Name="AlternateThumbnailUrl" /&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{A1CA0063-779F-49f9-999C-A4A2E3645B07}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="EncodedAbsWebImgUrl" DisplayName="Web Image URL"
+                                DisplayNameSrcField="FileLeafRef" Filterable="FALSE" Sortable="FALSE"
+                                RenderXMLUsingPattern="TRUE" Hidden="TRUE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields"
+                                StaticName="EncodedAbsWebImgUrl" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                                ID="{7177CFC7-F399-4d4d-905D-37DD51BC90BF}" Name="EncodedAbsUrl" /&gt;&lt;FieldRef
+                                ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                                ID="{39360f11-34cf-4356-9945-25c44e68dade}" Name="File_x0020_Type" /&gt;&lt;FieldRef
+                                ID="{0c5e0085-eb30-494b-9cdd-ece1d3c649a2}" Name="HTML_x0020_File_x0020_Type" /&gt;&lt;FieldRef
+                                ID="{3CA8EFCD-96E8-414f-BA90-4C8C4A8BFEF8}" Name="PreviewExists" /&gt;&lt;FieldRef
+                                ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                                Name="AlternateThumbnailUrl" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                                Name="PreviewExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;1&lt;/Expr2&gt;&lt;Then&gt;&lt;HttpHost
+                                /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn URLEncodeAsURL="TRUE"
+                                IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_w/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                                Name="PreviewExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                                Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column
+                                Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                                Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column
+                                Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HttpHost /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn
+                                URLEncodeAsURL="TRUE" IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_w/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                                Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Column
+                                Name="AlternateThumbnailUrl" /&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{7EBF72CA-A307-4c18-9E5B-9D89E1DAE74F}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="SelectedFlag" DisplayName="Selection Checkbox" Filterable="FALSE"
+                                Sortable="FALSE" HeaderImage="blank.gif" AuthoringInfo="(select a picture)"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="SelectedFlag"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&#xD;
+                                &lt;script type="text/javascript"&gt;fSelectFieldAppeared = true; firstIdWithCheckbox
+                                =']]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA['; &lt;/script&gt;&#xD;
+                                &lt;input type=checkbox disabled style="visibility:hidden" title='selection checkbox'
+                                name="selectionCheckBox" id="cbx_]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                                onfocus="if (!IsImgLibJssLoaded()) return; HiLiteRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)" onclick="if (!IsImgLibJssLoaded()) return;
+                                ToggleSelection(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{76D1CC87-56DE-432c-8A2A-16E5BA5331B3}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="NameOrTitle" ClassInfo="Menu" DisplayName="Name"
+                                DisplayNameSrcField="FileLeafRef" Filterable="FALSE" CalloutMenu="TRUE"
+                                AuthoringInfo="(linked to display items)"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="NameOrTitle"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{687C7F94-686A-42d3-9B67-2782EAC4B4F8}" Name="FileLeafRef" /&gt;&lt;FieldRef
+                                ID="{56605DF6-8FA1-47e4-A04C-5B384D59609F}" Name="FileDirRef" /&gt;&lt;FieldRef
+                                ID="{FA564E0F-0C70-4ab9-B863-0177E6DDD247}" Name="Title" /&gt;&lt;FieldRef
+                                ID="{081C6E4C-5C14-4f20-B23E-1A71CEB6A67C}" Name="DocIcon" /&gt;&lt;FieldRef
+                                ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                                ID="{9DA97A8A-1DA5-4a77-98D3-4BC10456E700}" Name="Description" /&gt;&lt;FieldRef
+                                ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                                ID="{3881510A-4E4A-4ee8-B102-8EE8E2D0DD4B}" Name="CheckedOutUserId" /&gt;&lt;FieldRef
+                                ID="{105F76CE-724A-4bba-AECE-F81F2FCE58F5}" Name="ServerUrl" /&gt;&lt;FieldRef
+                                ID="{998b5cff-4a35-47a7-92f3-3914aa6aa4a2}" Name="Created_x0020_Date" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;HTML&gt;&lt;![CDATA[&#xD;
+                                &lt;table cellspacing="0" class="ms-unselectedtitle" NameOrTitle="true"&#xD;
+                                Url="]]&gt;&lt;/HTML&gt;&lt;Field Name="ServerUrl" URLEncodeAsURL="TRUE" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                                &#xD;
+                                DRef="]]&gt;&lt;/HTML&gt;&lt;Field Name="FileDirRef" /&gt;&lt;HTML&gt;&lt;![CDATA["&#xD;
+                                COUId="]]&gt;&lt;/HTML&gt;&lt;Field Name="CheckedOutUserId" /&gt;&lt;HTML&gt;&lt;![CDATA["&#xD;
+                                Type="]]&gt;&lt;/HTML&gt;&lt;Column Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;"&#xD;
+                                Icon="&lt;/HTML&gt;&lt;MapToAll&gt;&lt;Column Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column
+                                Name="File_x0020_Type" /&gt;&lt;/MapToAll&gt;&lt;HTML&gt;" OType="&lt;/HTML&gt;&lt;LookupColumn
+                                Name="FSObjType" /&gt;&lt;HTML&gt;&lt;![CDATA["&#xD;
+                                Ext="]]&gt;&lt;/HTML&gt;&lt;Column Name="File_x0020_Type" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                                cellspacing="0" cellpadding="0"&gt;&lt;tr id="title]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[" onclick="if (!IsImgLibJssLoaded()) return;
+                                ClickRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"
+                                oncontextmenu="if (!IsImgLibJssLoaded()) return true; return ContextMenuOnRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[);" onmouseover="if (!IsImgLibJssLoaded())
+                                return; MouseOverRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"
+                                onmouseout="if (!IsImgLibJssLoaded()) return; MouseOutRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"&gt;&#xD;
+                                &lt;td width="100%" class="ms-vb"&gt;]]&gt;&lt;/HTML&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="]]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsUrl" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                                onclick="if (!IsImgLibJssLoaded()) return; javascript:DisplayItemOnFileRef(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[);return false;" onmouseover="if
+                                (!IsImgLibJssLoaded()) return; javascript:MouseOverRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;UrlBaseName
+                                HTMLEncode="TRUE"&gt;&lt;LookupColumn Name="FileLeafRef" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="]]&gt;&lt;/HTML&gt;&lt;URL Cmd="Display" /&gt;&lt;HTML&gt;&lt;![CDATA[" ]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[onclick="if
+                                (!IsImgLibJssLoaded()) return; javascript:DisplayItemOnFileRef(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[);return false;" onmouseover="if
+                                (!IsImgLibJssLoaded()) return; javascript:MouseOverRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;UrlBaseName
+                                HTMLEncode="TRUE"&gt;&lt;LookupColumn Name="FileLeafRef" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;IfNew
+                                Name="Created_x0020_Date"&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                                src="/_layouts/15/1033/images/new.gif" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;New&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["
+                                class="ms-newgif" /&gt;]]&gt;&lt;/HTML&gt;&lt;/IfNew&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Switch&gt;&lt;Expr&gt;&lt;GetVar
+                                Name="RecursiveView" /&gt;&lt;/Expr&gt;&lt;Case Value="1"&gt;&lt;LookupColumn
+                                Name="FileLeafRef" HTMLEncode="TRUE" /&gt;&lt;/Case&gt;&lt;Default&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="]]&gt;&lt;/HTML&gt;&lt;SetVar Name="RootFolder"&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn
+                                Name="FileRef" /&gt;&lt;/SetVar&gt;&lt;FilterLink Default="" Paged="FALSE" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                                target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;LookupColumn Name="FileLeafRef"
+                                HTMLEncode="TRUE" /&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Default&gt;&lt;/Switch&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/td&gt;&#xD;
+                                &lt;td class='ms-menuimagecell' style='visibility:hidden' width="10" id="menuTd]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;a id="menuHref]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[" href="javascript:ClickRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)" onclick="JavaScript:ClickRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                                Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[); JavaScript:return false;"&gt;&lt;img
+                                border="0" width="13" src="/_layouts/15/images/menudark.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Edit
+                                Menu&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;/a&gt;&lt;/td&gt;&#xD;
+                                &lt;/tr&gt;&lt;/table&gt;&#xD;
+                                ]]&gt;&lt;/HTML&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{DE1BAA4B-2117-473b-AA0C-4D824034142D}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="RequiredField" DisplayName="Required Field" AuthoringInfo="(must
+                                be selected for picture library details view)" Sortable="FALSE" Filterable="FALSE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="RequiredField"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                                ID="{687C7F94-686A-42d3-9B67-2782EAC4B4F8}" Name="FileLeafRef" /&gt;&lt;FieldRef
+                                ID="{FA564E0F-0C70-4ab9-B863-0177E6DDD247}" Name="Title" /&gt;&lt;FieldRef
+                                ID="{9DA97A8A-1DA5-4a77-98D3-4BC10456E700}" Name="Description" /&gt;&lt;FieldRef
+                                ID="{922551B8-C7E0-46a6-B7E3-3CF02917F68A}" Name="ImageSize" /&gt;&lt;FieldRef
+                                ID="{081C6E4C-5C14-4f20-B23E-1A71CEB6A67C}" Name="DocIcon" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern
+                                /&gt;&lt;/Field&gt;&lt;Field ID="{B66E9B50-A28E-469b-B1A0-AF0E45486874}" Type="Note"
+                                Group="Core Document Columns" Name="Keywords" DisplayName="Keywords"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="Keywords"
+                                Sealed="TRUE" NumLines="1" UnlimitedLengthInDocumentLibrary="TRUE" AllowDeletion="TRUE"
+                                ShowInFileDlg="FALSE" Customization="" ShowInNewForm="FALSE" /&gt;&lt;Field
+                                ID="{AC7BB138-02DC-40eb-B07A-84C15575B6E9}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="Thumbnail" ShowInNewForm="FALSE" ShowInFileDlg="FALSE"
+                                ShowInEditForm="FALSE" DisplayName="Thumbnail" Sealed="TRUE" Sortable="FALSE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="Thumbnail"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                                ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" Name="ImageHeight" /&gt;&lt;FieldRef
+                                ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                                ID="{B9E6F3AE-5632-4b13-B636-9D1A2BD67120}" Name="EncodedAbsThumbnailUrl" /&gt;&lt;FieldRef
+                                ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="ThumbnailExists" /&gt;&lt;FieldRef
+                                ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then /&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then /&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="]]&gt;&lt;/HTML&gt;&lt;URL Cmd="Display" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;img
+                                border="0" ALT="Thumbnail" src="]]&gt;&lt;/HTML&gt;&lt;Field
+                                Name="EncodedAbsThumbnailUrl" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&#xD;
+                                &lt;/a&gt;&#xD;
+                                ]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{BD716B26-546D-43f2-B229-62699581FA9F}" ReadOnly="TRUE" Type="Computed"
+                                Group="_Hidden" Name="Preview" ShowInNewForm="FALSE" ShowInFileDlg="FALSE"
+                                ShowInEditForm="FALSE" DisplayName="Web Preview" Sealed="TRUE" Sortable="FALSE"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="Preview"
+                                Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                                ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                                ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" Name="ImageHeight" /&gt;&lt;FieldRef
+                                ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                                ID="{A1CA0063-779F-49f9-999C-A4A2E3645B07}" Name="EncodedAbsWebImgUrl" /&gt;&lt;FieldRef
+                                ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="PreviewExists" /&gt;&lt;FieldRef
+                                ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then /&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                                Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then /&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                                href="]]&gt;&lt;/HTML&gt;&lt;URL Cmd="Display" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;img
+                                ALT="Web Preview" src="]]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsWebImgUrl" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&#xD;
+                                &lt;/a&gt;&#xD;
+                                ]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                                ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="ThumbnailExists"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ThumbnailExists"
+                                Group="_Hidden" ReadOnly="TRUE" Type="Boolean" DisplayName="Thumbnail Exists"
+                                Hidden="TRUE" Required="FALSE" Customization=""&gt;&lt;Default&gt;FALSE&lt;/Default&gt;&lt;/Field&gt;&lt;Field
+                                ID="{3CA8EFCD-96E8-414f-BA90-4C8C4A8BFEF8}" Name="PreviewExists"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="PreviewExists"
+                                Group="_Hidden" ReadOnly="TRUE" Type="Boolean" DisplayName="Preview Exists"
+                                Hidden="TRUE" Required="FALSE" Customization=""&gt;&lt;Default&gt;FALSE&lt;/Default&gt;&lt;/Field&gt;&lt;Field
+                                ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}"
+                                SourceID="http://schemas.microsoft.com/sharepoint/v4" Name="AlternateThumbnailUrl"
+                                DisplayName="Preview Image URL" Group="_Hidden" Type="URL" Format="Image" Sealed="TRUE"
+                                Customization=""&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;DocumentTemplate
+                                TargetName="/_layouts/15/upload.aspx" /&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                                NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                                xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;DocumentLibraryForm&lt;/Display&gt;&lt;Edit&gt;DocumentLibraryForm&lt;/Edit&gt;&lt;New&gt;DocumentLibraryForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                            <d:Scope>/sites/MnSHubStaging</d:Scope>
+                            <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                            <d:StringId>0x010102</d:StringId>
+                        </m:properties>
+                    </content>
+                </entry>
+            </m:inline>
+        </link>
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/WorkflowAssociations"
+              type="application/atom+xml;type=feed" title="WorkflowAssociations"
+              href="Web/ContentTypes('0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7')/WorkflowAssociations"/>
+        <title/>
+        <updated>2015-08-21T12:40:30Z</updated>
+        <author>
+            <name/>
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Description>Procurement Content Type</d:Description>
+                <d:DisplayFormTemplateName>DocumentLibraryForm</d:DisplayFormTemplateName>
+                <d:DisplayFormUrl></d:DisplayFormUrl>
+                <d:DocumentTemplate>/_layouts/15/upload.aspx</d:DocumentTemplate>
+                <d:DocumentTemplateUrl>/_layouts/15/upload.aspx</d:DocumentTemplateUrl>
+                <d:EditFormTemplateName>DocumentLibraryForm</d:EditFormTemplateName>
+                <d:EditFormUrl></d:EditFormUrl>
+                <d:Group>Procurement Content Types</d:Group>
+                <d:Hidden m:type="Edm.Boolean">false</d:Hidden>
+                <d:Id m:type="SP.ContentTypeId">
+                    <d:StringValue>0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7</d:StringValue>
+                </d:Id>
+                <d:JSLink></d:JSLink>
+                <d:MobileDisplayFormUrl></d:MobileDisplayFormUrl>
+                <d:MobileEditFormUrl></d:MobileEditFormUrl>
+                <d:MobileNewFormUrl></d:MobileNewFormUrl>
+                <d:Name>CT_ProcessImage</d:Name>
+                <d:NewFormTemplateName>DocumentLibraryForm</d:NewFormTemplateName>
+                <d:NewFormUrl></d:NewFormUrl>
+                <d:ReadOnly m:type="Edm.Boolean">false</d:ReadOnly>
+                <d:SchemaXml>&lt;ContentType ID="0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7" Name="CT_ProcessImage"
+                    Group="Procurement Content Types" Description="Procurement Content Type" Version="1"&gt;&lt;Folder
+                    TargetName="_cts/CT_ProcessImage" /&gt;&lt;Fields&gt;&lt;Field
+                    ID="{c042a256-787d-4a6f-8a8a-cf6ab767f12d}" Name="ContentType"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ContentType" Group="_Hidden"
+                    Type="Computed" DisplayName="Content Type" Sealed="TRUE" Sortable="FALSE"
+                    RenderXMLUsingPattern="TRUE" PITarget="MicrosoftWindowsSharePointServices"
+                    PIAttribute="ContentTypeID" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{03e45e84-1992-4d42-9116-26f756012634}" Name="ContentTypeId" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;MapToContentType&gt;&lt;Column
+                    Name="ContentTypeId" /&gt;&lt;/MapToContentType&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{5f47e085-2150-41dc-b661-442f3027f552}" Name="SelectFilename"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="SelectFilename" Group="_Hidden"
+                    ReadOnly="TRUE" Type="Computed" DisplayName="Select" Hidden="TRUE" CanToggleHidden="TRUE"
+                    Filterable="FALSE" AuthoringInfo="(web part connection)" HeaderImage="blank.gif" Sortable="FALSE"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{1d22ea11-1e32-424e-89ab-9fedbadb6ce1}"
+                    Name="ID" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;GetVar
+                    Name="SelectedID" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;&lt;Column Name="ID" /&gt;&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img
+                    align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbsel.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Selected&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                    NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                    false;" onclick="javascript:SelectField(']]&gt;&lt;/HTML&gt;&lt;GetVar Name="View" /&gt;&lt;HTML&gt;&lt;![CDATA[',']]&gt;&lt;/HTML&gt;&lt;ScriptQuote
+                    NotAddingQuote="TRUE"&gt;&lt;Column Name="ID" /&gt;&lt;/ScriptQuote&gt;&lt;HTML&gt;&lt;![CDATA[');return
+                    false;" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img border="0"
+                    align="absmiddle" style="cursor: hand" src="/_layouts/15/images/rbunsel.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Normal&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{8553196d-ec8d-4564-9861-3dbe931050c8}" Name="FileLeafRef"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="FileLeafRef" Group="_Hidden"
+                    ShowInFileDlg="FALSE" ShowInVersionHistory="FALSE" Type="File" DisplayName="Name"
+                    AuthoringInfo="(for use in forms)" List="Docs" FieldRef="ID" ShowField="LeafName"
+                    JoinColName="DoclibRowId" JoinRowOrdinal="0" JoinType="INNER" Required="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{8c06beca-0777-48f7-91c7-6da68bc07b69}" Name="Created"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created" Group="_Hidden"
+                    ColName="tp_Created" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime" DisplayName="Created"
+                    StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{28cf69c5-fa48-462a-b5cd-27b6f9d2bd5f}" Name="Modified"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified" Group="_Hidden"
+                    ColName="tp_Modified" RowOrdinal="0" ReadOnly="TRUE" Type="DateTime" DisplayName="Modified"
+                    StorageTZ="TRUE" Hidden="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{822c78e3-1ea9-4943-b449-57863ad33ca9}" Name="Modified_x0020_By"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Modified_x0020_By" Group="_Hidden"
+                    ReadOnly="TRUE" Hidden="FALSE" Type="Text" DisplayName="Document Modified By" Customization="" /&gt;&lt;Field
+                    ID="{4dd7e525-8d6b-4cb4-9d3e-44ee25f973eb}" Name="Created_x0020_By"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Created_x0020_By" Group="_Hidden"
+                    ReadOnly="TRUE" Hidden="FALSE" Type="Text" DisplayName="Document Created By" Customization="" /&gt;&lt;Field
+                    ID="{8C0D0AAC-9B76-4951-927A-2490ABE13C0B}" Type="Computed" Name="PreviewOnForm" Group="_Hidden"
+                    ShowInEditForm="FALSE" ShowInNewForm="FALSE" ShowInFileDlg="FALSE" DisplayName="Preview"
+                    Sealed="TRUE" Sortable="FALSE" SourceID="http://schemas.microsoft.com/sharepoint/v3/fields"
+                    StaticName="PreviewOnForm" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                    ID="{A1CA0063-779F-49f9-999C-A4A2E3645B07}" Name="EncodedAbsWebImgUrl" /&gt;&lt;FieldRef
+                    ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="PreviewExists" /&gt;&lt;FieldRef
+                    ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href=']]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsUrl" /&gt;&lt;HTML&gt;&lt;![CDATA['&gt;&lt;img
+                    id=webImgShrinked alt="]]&gt;&lt;/HTML&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column Name="Description"
+                    /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[Picture]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Column
+                    Name="Description" HTMLEncode="TRUE" /&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;HTML&gt;&lt;![CDATA["
+                    galleryimg=false border="0" src=']]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsWebImgUrl" /&gt;&lt;HTML&gt;&lt;![CDATA['&gt;&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{fa564e0f-0c70-4ab9-b863-0177e6ddd247}" Name="Title"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Title" Group="_Hidden" Type="Text"
+                    DisplayName="Title" Required="TRUE" FromBaseType="TRUE" Customization="" ShowInNewForm="FALSE"
+                    ShowInFileDlg="FALSE" /&gt;&lt;Field ID="{C53A03F3-F930-4ef2-B166-E0F2210C13C0}" Type="Computed"
+                    Group="Core Document Columns" Name="FileType" DisplayName="File Type" ShowInNewForm="FALSE"
+                    ShowInFileDlg="FALSE" ShowInEditForm="FALSE" Filterable="TRUE" Sortable="TRUE" AuthoringInfo="(File
+                    extension)" SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="FileType"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{39360F11-34CF-4356-9945-25C44E68DADE}"
+                    Name="File_x0020_Type" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;Column
+                    Name="File_x0020_Type" HTMLEncode="TRUE" /&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{922551B8-C7E0-46a6-B7E3-3CF02917F68A}" Type="Computed" Group="_Hidden" Name="ImageSize"
+                    DisplayName="Picture Size" ShowInNewForm="FALSE" ShowInFileDlg="FALSE" ShowInEditForm="FALSE"
+                    Filterable="FALSE" Sortable="FALSE" SourceID="http://schemas.microsoft.com/sharepoint/v3/fields"
+                    StaticName="ImageSize" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                    ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" Name="ImageHeight" /&gt;&lt;FieldRef
+                    ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then /&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then /&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;span
+                    dir=ltr&gt;]]&gt;&lt;/HTML&gt;&lt;Column Name="ImageWidth" /&gt;&lt;HTML&gt;&lt;![CDATA[&#xD;
+                    x&#xD;
+                    ]]&gt;&lt;/HTML&gt;&lt;Column Name="ImageHeight" /&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/span&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" ReadOnly="TRUE" Type="Integer" Group="Core Document
+                    Columns" Name="ImageWidth" DisplayName="Picture Width"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="ImageWidth"
+                    Customization="" /&gt;&lt;Field ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" ReadOnly="TRUE"
+                    Type="Integer" Group="Core Document Columns" Name="ImageHeight" DisplayName="Picture Height"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="ImageHeight"
+                    Customization="" /&gt;&lt;Field ID="{A5D2F824-BC53-422e-87FD-765939D863A5}" Type="DateTime"
+                    Group="Core Document Columns" ShowInNewForm="FALSE" ShowInFileDlg="FALSE" Name="ImageCreateDate"
+                    DisplayName="Date Picture Taken" Format="DateTime" Sealed="TRUE"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" AllowDeletion="TRUE"
+                    StaticName="ImageCreateDate" Customization="" /&gt;&lt;Field
+                    ID="{9da97a8a-1da5-4a77-98d3-4bc10456e700}" Type="Note" RichText="TRUE" Name="Comments"
+                    Group="_Hidden" DisplayName="Comments" Sortable="FALSE"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="Comments" Customization=""
+                    ShowInNewForm="FALSE" ShowInFileDlg="FALSE" /&gt;&lt;Field
+                    ID="{B9E6F3AE-5632-4b13-B636-9D1A2BD67120}" ReadOnly="TRUE" Type="Computed" Group="_Hidden"
+                    Name="EncodedAbsThumbnailUrl" DisplayName="Thumbnail URL" DisplayNameSrcField="FileLeafRef"
+                    Filterable="FALSE" Sortable="FALSE" RenderXMLUsingPattern="TRUE" Hidden="TRUE"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="EncodedAbsThumbnailUrl"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}"
+                    Name="ImageWidth" /&gt;&lt;FieldRef ID="{7177CFC7-F399-4d4d-905D-37DD51BC90BF}" Name="EncodedAbsUrl"
+                    /&gt;&lt;FieldRef ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                    ID="{39360f11-34cf-4356-9945-25c44e68dade}" Name="File_x0020_Type" /&gt;&lt;FieldRef
+                    ID="{0c5e0085-eb30-494b-9cdd-ece1d3c649a2}" Name="HTML_x0020_File_x0020_Type" /&gt;&lt;FieldRef
+                    ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="ThumbnailExists" /&gt;&lt;FieldRef
+                    ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                    Name="AlternateThumbnailUrl" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                    Name="ThumbnailExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;1&lt;/Expr2&gt;&lt;Then&gt;&lt;HttpHost /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn
+                    URLEncodeAsURL="TRUE" IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_t/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ThumbnailExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                    Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                    Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HttpHost
+                    /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn URLEncodeAsURL="TRUE"
+                    IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_t/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Column
+                    Name="AlternateThumbnailUrl" /&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{A1CA0063-779F-49f9-999C-A4A2E3645B07}" ReadOnly="TRUE" Type="Computed" Group="_Hidden"
+                    Name="EncodedAbsWebImgUrl" DisplayName="Web Image URL" DisplayNameSrcField="FileLeafRef"
+                    Filterable="FALSE" Sortable="FALSE" RenderXMLUsingPattern="TRUE" Hidden="TRUE"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="EncodedAbsWebImgUrl"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}"
+                    Name="ImageWidth" /&gt;&lt;FieldRef ID="{7177CFC7-F399-4d4d-905D-37DD51BC90BF}" Name="EncodedAbsUrl"
+                    /&gt;&lt;FieldRef ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                    ID="{39360f11-34cf-4356-9945-25c44e68dade}" Name="File_x0020_Type" /&gt;&lt;FieldRef
+                    ID="{0c5e0085-eb30-494b-9cdd-ece1d3c649a2}" Name="HTML_x0020_File_x0020_Type" /&gt;&lt;FieldRef
+                    ID="{3CA8EFCD-96E8-414f-BA90-4C8C4A8BFEF8}" Name="PreviewExists" /&gt;&lt;FieldRef
+                    ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                    Name="AlternateThumbnailUrl" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                    Name="PreviewExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;1&lt;/Expr2&gt;&lt;Then&gt;&lt;HttpHost /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn
+                    URLEncodeAsURL="TRUE" IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_w/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;Column
+                    Name="PreviewExists" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                    Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[/_layouts/images/]]&gt;&lt;/HTML&gt;&lt;MapToIcon&gt;&lt;Column
+                    Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column Name="File_x0020_Type" /&gt;&lt;/MapToIcon&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HttpHost
+                    /&gt;&lt;UrlDirName&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn URLEncodeAsURL="TRUE"
+                    IncludeVersions="TRUE" Name="FileRef" /&gt;&lt;/UrlDirName&gt;&lt;HTML&gt;/_w/&lt;/HTML&gt;&lt;UrlBaseName&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;_&lt;/HTML&gt;&lt;GetFileExtension&gt;&lt;Field
+                    Name="EncodedAbsUrl" /&gt;&lt;/GetFileExtension&gt;&lt;HTML&gt;.jpg&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Column
+                    Name="AlternateThumbnailUrl" /&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{7EBF72CA-A307-4c18-9E5B-9D89E1DAE74F}" ReadOnly="TRUE" Type="Computed" Group="_Hidden"
+                    Name="SelectedFlag" DisplayName="Selection Checkbox" Filterable="FALSE" Sortable="FALSE"
+                    HeaderImage="blank.gif" AuthoringInfo="(select a picture)"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="SelectedFlag"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}"
+                    Name="FSObjType" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&#xD;
+                    &lt;script type="text/javascript"&gt;fSelectFieldAppeared = true; firstIdWithCheckbox =']]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA['; &lt;/script&gt;&#xD;
+                    &lt;input type=checkbox disabled style="visibility:hidden" title='selection checkbox'
+                    name="selectionCheckBox" id="cbx_]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                    onfocus="if (!IsImgLibJssLoaded()) return; HiLiteRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"
+                    onclick="if (!IsImgLibJssLoaded()) return; ToggleSelection(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{76D1CC87-56DE-432c-8A2A-16E5BA5331B3}" ReadOnly="TRUE" Type="Computed" Group="_Hidden"
+                    Name="NameOrTitle" ClassInfo="Menu" DisplayName="Name" DisplayNameSrcField="FileLeafRef"
+                    Filterable="FALSE" CalloutMenu="TRUE" AuthoringInfo="(linked to display items)"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="NameOrTitle"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{687C7F94-686A-42d3-9B67-2782EAC4B4F8}"
+                    Name="FileLeafRef" /&gt;&lt;FieldRef ID="{56605DF6-8FA1-47e4-A04C-5B384D59609F}" Name="FileDirRef" /&gt;&lt;FieldRef
+                    ID="{FA564E0F-0C70-4ab9-B863-0177E6DDD247}" Name="Title" /&gt;&lt;FieldRef
+                    ID="{081C6E4C-5C14-4f20-B23E-1A71CEB6A67C}" Name="DocIcon" /&gt;&lt;FieldRef
+                    ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}" Name="FileRef" /&gt;&lt;FieldRef
+                    ID="{9DA97A8A-1DA5-4a77-98D3-4BC10456E700}" Name="Description" /&gt;&lt;FieldRef
+                    ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                    ID="{3881510A-4E4A-4ee8-B102-8EE8E2D0DD4B}" Name="CheckedOutUserId" /&gt;&lt;FieldRef
+                    ID="{105F76CE-724A-4bba-AECE-F81F2FCE58F5}" Name="ServerUrl" /&gt;&lt;FieldRef
+                    ID="{998b5cff-4a35-47a7-92f3-3914aa6aa4a2}" Name="Created_x0020_Date" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;HTML&gt;&lt;![CDATA[&#xD;
+                    &lt;table cellspacing="0" class="ms-unselectedtitle" NameOrTitle="true"&#xD;
+                    Url="]]&gt;&lt;/HTML&gt;&lt;Field Name="ServerUrl" URLEncodeAsURL="TRUE" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                    &#xD;
+                    DRef="]]&gt;&lt;/HTML&gt;&lt;Field Name="FileDirRef" /&gt;&lt;HTML&gt;&lt;![CDATA["&#xD;
+                    COUId="]]&gt;&lt;/HTML&gt;&lt;Field Name="CheckedOutUserId" /&gt;&lt;HTML&gt;&lt;![CDATA["&#xD;
+                    Type="]]&gt;&lt;/HTML&gt;&lt;Column Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;"&#xD;
+                    Icon="&lt;/HTML&gt;&lt;MapToAll&gt;&lt;Column Name="HTML_x0020_File_x0020_Type" /&gt;&lt;HTML&gt;|&lt;/HTML&gt;&lt;Column
+                    Name="File_x0020_Type" /&gt;&lt;/MapToAll&gt;&lt;HTML&gt;" OType="&lt;/HTML&gt;&lt;LookupColumn
+                    Name="FSObjType" /&gt;&lt;HTML&gt;&lt;![CDATA["&#xD;
+                    Ext="]]&gt;&lt;/HTML&gt;&lt;Column Name="File_x0020_Type" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                    cellspacing="0" cellpadding="0"&gt;&lt;tr id="title]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA["
+                    onclick="if (!IsImgLibJssLoaded()) return; ClickRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"
+                    oncontextmenu="if (!IsImgLibJssLoaded()) return true; return ContextMenuOnRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[);" onmouseover="if (!IsImgLibJssLoaded()) return;
+                    MouseOverRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)" onmouseout="if
+                    (!IsImgLibJssLoaded()) return; MouseOutRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"&gt;&#xD;
+                    &lt;td width="100%" class="ms-vb"&gt;]]&gt;&lt;/HTML&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href="]]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsUrl" /&gt;&lt;HTML&gt;&lt;![CDATA[" onclick="if
+                    (!IsImgLibJssLoaded()) return; javascript:DisplayItemOnFileRef(]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[);return false;" onmouseover="if (!IsImgLibJssLoaded())
+                    return; javascript:MouseOverRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"
+                    target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;UrlBaseName HTMLEncode="TRUE"&gt;&lt;LookupColumn
+                    Name="FileLeafRef" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Then&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href="]]&gt;&lt;/HTML&gt;&lt;URL Cmd="Display" /&gt;&lt;HTML&gt;&lt;![CDATA[" ]]&gt;&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[onclick="if
+                    (!IsImgLibJssLoaded()) return; javascript:DisplayItemOnFileRef(]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[);return false;" onmouseover="if (!IsImgLibJssLoaded())
+                    return; javascript:MouseOverRow(]]&gt;&lt;/HTML&gt;&lt;Column Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)"
+                    target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;UrlBaseName HTMLEncode="TRUE"&gt;&lt;LookupColumn
+                    Name="FileLeafRef" /&gt;&lt;/UrlBaseName&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;IfNew
+                    Name="Created_x0020_Date"&gt;&lt;HTML&gt;&lt;![CDATA[&lt;img src="/_layouts/15/1033/images/new.gif"
+                    alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;New&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA[" class="ms-newgif" /&gt;]]&gt;&lt;/HTML&gt;&lt;/IfNew&gt;&lt;/Then&gt;&lt;Else&gt;&lt;Switch&gt;&lt;Expr&gt;&lt;GetVar
+                    Name="RecursiveView" /&gt;&lt;/Expr&gt;&lt;Case Value="1"&gt;&lt;LookupColumn Name="FileLeafRef"
+                    HTMLEncode="TRUE" /&gt;&lt;/Case&gt;&lt;Default&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a href="]]&gt;&lt;/HTML&gt;&lt;SetVar
+                    Name="RootFolder"&gt;&lt;HTML&gt;/&lt;/HTML&gt;&lt;LookupColumn Name="FileRef" /&gt;&lt;/SetVar&gt;&lt;FilterLink
+                    Default="" Paged="FALSE" /&gt;&lt;HTML&gt;&lt;![CDATA[" target="_self"&gt;]]&gt;&lt;/HTML&gt;&lt;LookupColumn
+                    Name="FileLeafRef" HTMLEncode="TRUE" /&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/a&gt;]]&gt;&lt;/HTML&gt;&lt;/Default&gt;&lt;/Switch&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;HTML&gt;&lt;![CDATA[&lt;/td&gt;&#xD;
+                    &lt;td class='ms-menuimagecell' style='visibility:hidden' width="10" id="menuTd]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;a id="menuHref]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[" href="javascript:ClickRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[)" onclick="JavaScript:ClickRow(]]&gt;&lt;/HTML&gt;&lt;Column
+                    Name="ID" /&gt;&lt;HTML&gt;&lt;![CDATA[); JavaScript:return false;"&gt;&lt;img border="0" width="13"
+                    src="/_layouts/15/images/menudark.gif?rev=40" alt="]]&gt;&lt;/HTML&gt;&lt;HTML&gt;Edit Menu&lt;/HTML&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;/a&gt;&lt;/td&gt;&#xD;
+                    &lt;/tr&gt;&lt;/table&gt;&#xD;
+                    ]]&gt;&lt;/HTML&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{DE1BAA4B-2117-473b-AA0C-4D824034142D}" ReadOnly="TRUE" Type="Computed" Group="_Hidden"
+                    Name="RequiredField" DisplayName="Required Field" AuthoringInfo="(must be selected for picture
+                    library details view)" Sortable="FALSE" Filterable="FALSE"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="RequiredField"
+                    Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef ID="{94F89715-E097-4e8b-BA79-EA02AA8B7ADB}"
+                    Name="FileRef" /&gt;&lt;FieldRef ID="{687C7F94-686A-42d3-9B67-2782EAC4B4F8}" Name="FileLeafRef" /&gt;&lt;FieldRef
+                    ID="{FA564E0F-0C70-4ab9-B863-0177E6DDD247}" Name="Title" /&gt;&lt;FieldRef
+                    ID="{9DA97A8A-1DA5-4a77-98D3-4BC10456E700}" Name="Description" /&gt;&lt;FieldRef
+                    ID="{922551B8-C7E0-46a6-B7E3-3CF02917F68A}" Name="ImageSize" /&gt;&lt;FieldRef
+                    ID="{081C6E4C-5C14-4f20-B23E-1A71CEB6A67C}" Name="DocIcon" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern
+                    /&gt;&lt;/Field&gt;&lt;Field ID="{B66E9B50-A28E-469b-B1A0-AF0E45486874}" Type="Note" Group="Core
+                    Document Columns" Name="Keywords" DisplayName="Keywords"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="Keywords" Sealed="TRUE"
+                    NumLines="1" UnlimitedLengthInDocumentLibrary="TRUE" AllowDeletion="TRUE" ShowInFileDlg="FALSE"
+                    Customization="" ShowInNewForm="FALSE" /&gt;&lt;Field ID="{AC7BB138-02DC-40eb-B07A-84C15575B6E9}"
+                    ReadOnly="TRUE" Type="Computed" Group="_Hidden" Name="Thumbnail" ShowInNewForm="FALSE"
+                    ShowInFileDlg="FALSE" ShowInEditForm="FALSE" DisplayName="Thumbnail" Sealed="TRUE" Sortable="FALSE"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3/fields" StaticName="Thumbnail" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                    ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" Name="ImageHeight" /&gt;&lt;FieldRef
+                    ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                    ID="{B9E6F3AE-5632-4b13-B636-9D1A2BD67120}" Name="EncodedAbsThumbnailUrl" /&gt;&lt;FieldRef
+                    ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="ThumbnailExists" /&gt;&lt;FieldRef
+                    ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then /&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then /&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href="]]&gt;&lt;/HTML&gt;&lt;URL Cmd="Display" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;img border="0"
+                    ALT="Thumbnail" src="]]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsThumbnailUrl" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&#xD;
+                    &lt;/a&gt;&#xD;
+                    ]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{BD716B26-546D-43f2-B229-62699581FA9F}" ReadOnly="TRUE" Type="Computed" Group="_Hidden"
+                    Name="Preview" ShowInNewForm="FALSE" ShowInFileDlg="FALSE" ShowInEditForm="FALSE" DisplayName="Web
+                    Preview" Sealed="TRUE" Sortable="FALSE" SourceID="http://schemas.microsoft.com/sharepoint/v3/fields"
+                    StaticName="Preview" Customization=""&gt;&lt;FieldRefs&gt;&lt;FieldRef
+                    ID="{7E68A0F9-AF76-404c-9613-6F82BC6DC28C}" Name="ImageWidth" /&gt;&lt;FieldRef
+                    ID="{1944C034-D61B-42af-AA84-647F2E74CA70}" Name="ImageHeight" /&gt;&lt;FieldRef
+                    ID="{30BB605F-5BAE-48fe-B4E3-1F81D9772AF9}" Name="FSObjType" /&gt;&lt;FieldRef
+                    ID="{A1CA0063-779F-49f9-999C-A4A2E3645B07}" Name="EncodedAbsWebImgUrl" /&gt;&lt;FieldRef
+                    ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="PreviewExists" /&gt;&lt;FieldRef
+                    ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" Name="AlternateThumbnailUrl" /&gt;&lt;/FieldRefs&gt;&lt;DisplayPattern&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="FSObjType" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2 /&gt;&lt;Then /&gt;&lt;Else&gt;&lt;IfEqual&gt;&lt;Expr1&gt;&lt;LookupColumn
+                    Name="ImageWidth" /&gt;&lt;/Expr1&gt;&lt;Expr2&gt;0&lt;/Expr2&gt;&lt;Then /&gt;&lt;Else&gt;&lt;HTML&gt;&lt;![CDATA[&lt;a
+                    href="]]&gt;&lt;/HTML&gt;&lt;URL Cmd="Display" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&lt;img ALT="Web
+                    Preview" src="]]&gt;&lt;/HTML&gt;&lt;Field Name="EncodedAbsWebImgUrl" /&gt;&lt;HTML&gt;&lt;![CDATA["&gt;&#xD;
+                    &lt;/a&gt;&#xD;
+                    ]]&gt;&lt;/HTML&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Else&gt;&lt;/IfEqual&gt;&lt;/Then&gt;&lt;/IfEqual&gt;&lt;/DisplayPattern&gt;&lt;/Field&gt;&lt;Field
+                    ID="{1F43CD21-53C5-44c5-8675-B8BB86083244}" Name="ThumbnailExists"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="ThumbnailExists" Group="_Hidden"
+                    ReadOnly="TRUE" Type="Boolean" DisplayName="Thumbnail Exists" Hidden="TRUE" Required="FALSE"
+                    Customization=""&gt;&lt;Default&gt;FALSE&lt;/Default&gt;&lt;/Field&gt;&lt;Field
+                    ID="{3CA8EFCD-96E8-414f-BA90-4C8C4A8BFEF8}" Name="PreviewExists"
+                    SourceID="http://schemas.microsoft.com/sharepoint/v3" StaticName="PreviewExists" Group="_Hidden"
+                    ReadOnly="TRUE" Type="Boolean" DisplayName="Preview Exists" Hidden="TRUE" Required="FALSE"
+                    Customization=""&gt;&lt;Default&gt;FALSE&lt;/Default&gt;&lt;/Field&gt;&lt;Field
+                    ID="{F39D44AF-D3F3-4ae6-B43F-AC7330B5E9BD}" SourceID="http://schemas.microsoft.com/sharepoint/v4"
+                    Name="AlternateThumbnailUrl" DisplayName="Preview Image URL" Group="_Hidden" Type="URL"
+                    Format="Image" Sealed="TRUE" Customization="" /&gt;&lt;Field
+                    ID="{1531b31a-1379-4f5a-be95-66ce141a84bb}" Name="ParentProcess" DisplayName="Parent Process"
+                    Type="Choice" Required="TRUE" Group="Procurement Site Columns"
+                    SourceID="{e0f4f5ee-2704-41a8-88a6-f9d6ac1ef529}" StaticName="ParentProcess" Customization=""&gt;&lt;CHOICES&gt;&lt;CHOICE&gt;1.1
+                    Procurement Strategy&lt;/CHOICE&gt;&lt;CHOICE&gt;1.2 Category Planning&lt;/CHOICE&gt;&lt;CHOICE&gt;1.3
+                    Strategic supplier framework(SSF)&lt;/CHOICE&gt;&lt;CHOICE&gt;1.4 Spending Analytics&lt;/CHOICE&gt;&lt;CHOICE&gt;1.5
+                    Reporting&lt;/CHOICE&gt;&lt;CHOICE&gt;2.1 Source to Contract&lt;/CHOICE&gt;&lt;CHOICE&gt;3.1
+                    Contract Implementation&lt;/CHOICE&gt;&lt;CHOICE&gt;3.2 Purchase to Pay&lt;/CHOICE&gt;&lt;CHOICE&gt;3.3
+                    Contract Administration and Catalogue&lt;/CHOICE&gt;&lt;CHOICE&gt;3.4 Supplier Performance
+                    Management (SPM)&lt;/CHOICE&gt;&lt;CHOICE&gt;3.5 Supplier Relationship Management (SRM)&lt;/CHOICE&gt;&lt;/CHOICES&gt;&lt;/Field&gt;&lt;/Fields&gt;&lt;DocumentTemplate
+                    TargetName="/_layouts/15/upload.aspx" /&gt;&lt;XmlDocuments&gt;&lt;XmlDocument
+                    NamespaceURI="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;FormTemplates
+                    xmlns="http://schemas.microsoft.com/sharepoint/v3/contenttype/forms"&gt;&lt;Display&gt;DocumentLibraryForm&lt;/Display&gt;&lt;Edit&gt;DocumentLibraryForm&lt;/Edit&gt;&lt;New&gt;DocumentLibraryForm&lt;/New&gt;&lt;/FormTemplates&gt;&lt;/XmlDocument&gt;&lt;/XmlDocuments&gt;&lt;/ContentType&gt;</d:SchemaXml>
+                <d:Scope>/sites/MnSHubStaging/Procurement</d:Scope>
+                <d:Sealed m:type="Edm.Boolean">false</d:Sealed>
+                <d:StringId>0x01010200F6D1A1AA8B6F4B229E73E0D01E91C7F7</d:StringId>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
